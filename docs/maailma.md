@@ -13,6 +13,10 @@ Fading Sunsin maailmaa voisi siis lyhyesti kuvata scifin ja fantasian pyttipannu
 
 ## Pieni aikajana
 
+Vähän laajempi aikajana löytyy neljännen laitoksen Universe -kirjasta.
+
+Todella paljon laajempi (ja tarkistamaton - näyttää kuitenkin suunnilleen lähdekirjoista otetulta) löytyy [Wikiasta](https://fadingsuns.fandom.com/wiki/Timeline_of_FS_Universe).
+
 Vuosi       | Tapahtuma
 ----------- | ---------
 2100        | Ensimmäinen tasavalta, Zaibatsun, aurinkokunnan valloitus
