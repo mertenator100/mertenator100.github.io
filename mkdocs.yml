@@ -1,0 +1,6 @@
+site_name: Fading Suns
+nav:
+    - Home: index.md
+    - Maailma: maailma.md
+    - Säännöt: saannot.md
+theme: material

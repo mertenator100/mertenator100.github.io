@@ -1,1 +1,2 @@
-# fadingsuns
+# fading
+Fading Suns doc repo
