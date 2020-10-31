@@ -1,6 +1,6 @@
-# XXXXXXX
+# Fading Suns: Vieraita avaruudesta
 
-Tämä on Fading Suns -kampanjan *XXXXXXXXX* kotisivu. Tämän pitäisi kiinnostaa lähinnä kampanjan pelaajia.
+Tämä on Fading Suns -kampanjan *Vieraita avaruudesta* kotisivu. Tämän pitäisi kiinnostaa lähinnä kampanjan pelaajia.
 
 ## Fading Suns
 

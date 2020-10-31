@@ -1,6 +1,7 @@
 site_name: Fading Suns
 nav:
     - Home: index.md
+    - Kampanja: kampanja.md
     - Maailma: maailma.md
     - Säännöt: saannot.md
 theme: material
