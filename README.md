@@ -1,2 +1,3 @@
 # fading
-Fading Suns doc repo
+
+Fading Suns campaign doc repo. Mostly in Finnish.
