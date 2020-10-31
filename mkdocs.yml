@@ -1,7 +1,9 @@
 site_name: Fading Suns
 nav:
-    - Home: index.md
-    - Kampanja: kampanja.md
-    - Maailma: maailma.md
-    - Säännöt: saannot.md
+    - Home: 'index.md'    
+    - Maailma: 'maailma.md'
+    - Säännöt: 'saannot.md'
+    - Kampanja: 'kampanja.md'
+    - 'Kaudet':
+        - 'Ensimmäinen kausi: ryöstö': 'kausi1'
 theme: material

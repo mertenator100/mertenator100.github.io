@@ -28,3 +28,5 @@ Koronahommista ja muista käytännön järjestelyissä, tässä enemmän siitä 
 * Hahmo ja pelaaja ovat kaksi eri asiaa. Kyllä, tarkoittaa myös sitä että hahmojen sukupuolet ja ehkä jopa lajit ovat vapaasti valittavissa, joskaan mitään upliftattuja delfiinejä ei kyllä vain ole.
 
 ## Käytännön järjestelyt
+
+Ainakin kampanjan alussa eletään vielä Korona-aikaa, joten pelikerrat suoritetaan etänä. Tarkemmat speksit ohjelmistoista myöhemmin.

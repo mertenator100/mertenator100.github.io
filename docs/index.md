@@ -8,3 +8,9 @@ Fading Suns on Holistic Design Inc:n vuonna 1996 julkaisema roolipeli, josta oll
 
 Fading Sunsin sääntöjärjestelmän *Victory Point* -systeemin asemesta kampanjassa käytetään sääntöinä tuttua ja turvallista Over The Edge -sääntöjärjestelmää niin, että kaikenlaisten mystisten hokkuspokkus-voimien käyttöön sovelletaan ohjeellisesti Fading Sunsin mystisten hokkuspokkus-voimien kuvauksia. Tästä (vähän) tarkemmin *Säännöt* -sivulla.
 
+Linkkejä:
+
+* [Fading Suns fandom wiki](https://fadingsuns.fandom.com/wiki/Main_Page) - paljon tietoa vapaaehtoisvoimin koottuna. Varmaan enimmäkseen ihan lähdekirjoihin perustuvaa, mutta seassa voi olla muutakin. Suosittelen katsomaan lähinnä eri faktioiden peruskuvaukset, muuten todennäköisesti tiedätte/muistatte maailmasta enemmän kuin pelinjohtaja.
+* [Jumpweb](https://www.deviantart.com/steffenbrand/art/Jumpweb-Map-for-Fading-Suns-852181853) - joku on vääntänyt ihan kauniin kartan. Tämä on tunnettu maailma - erilaisissa lisäosissa on esitelty muitakin planeettoja, mutta nämä ovat ne planeetat ja hyppyportit joista jonkin verran maailmaa tuntevat hahmot saavat kaivettu helposti tietoja.
+* [Rpg Library Open content - Warp](https://ogc.rpglibrary.org/index.php?title=WaRP_System) - OtE:n systeemi wiki-muodossa.
+* [Warp system reference document](https://i.4pcdn.org/tg/1380922493796.pdf) - OtE:n systeemi pdf-muodossa.
