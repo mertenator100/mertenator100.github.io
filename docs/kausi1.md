@@ -122,20 +122,4 @@ Aika            | Tapahtuma
 
 Shaprut - Criticorum - Gwynneth - Ravenna - Delphi - Tethys - Byzantium Secundus - Pyre - Criticorum - Shaprut.
 
-Linja ajetaan noin puolen standardivuoden välein, pidemmät pysähdykset Byzantium Secunduksessa ja Shaprutissa.
-
-## Shaprut
-
-Al-Malik suvun hallitsema planeetta, joka voisi olla jonkinlainen myyttinen Kairo tai Casablanca tuotuna vehreälle maankaltaiselle planeetalle. Shaprutia pidetään yhtenä kauneimmista tunnetuista maailmoista, ja Al-Malikien pitkä valtakausi tuo planeetalle ainakin pintapuolisesti vivahteen andalusialaista tunnelmaa, jonka alla on aistittavissa jäänteen planeetan alunperin asuttaneiden intialaisten tuomasta kulttuurista. Al-Malik tunnetaan aatelisista suvuista oppineimpina, tieteen ja taiteen tukijoina, ja Shaprutin kaupungit ovat täynnä jonkinlaista jälki-maurilaista estetiikkaa - palatsit puutarhoineen ovat suuria ja täynnä mosaiikkeja, basaareilla on kiihkeä ja vähän mystinen tunnelma. 
-
-Shaprut on myös viimeinen pysähdyspaikka ennen Stigmataa, jonka hyppyportti sijaitsee yhden Shaprutin portilta lähtevän reitin päässä. Stigmatalla vuosikymmeniä käyty sota symbiootteja vastaan on hiljentynyt, mutta porttia vartioiva etuvartioasema on edelleenkin kuuluisa äärimmäisen tiukasta valvonnastaan. Myös Shaprutin hyppyportin valvonta Al-Malikien toimesta on huomattavan jämäkkää, joskaan ei mitenkään verrattavissa Stigmataan.
-
-Shaprutin basaarit tunnettuja siitä että suljettuihin maailmoihin matkaavat tekevät viimeiset varustetäydennykset sieltä - ja että oikealla hinnalla Shaprutista on saatavilla kaikenlaista suljetuista maailmoista tuotua tavaraa. Samoin kauttakulkuliikenne on vilkasta; Stigmata on ainoa reitti Nowheren maailmaan, josta löytyy paitsi runsaasti toisen tasavallan aikaisia raunioita, myös vanhempien rotujen perintöä kuten Nowheren gargoili, valtava patsas jonka sanotaan antavan sen lähellä aikaa viettäville visioita. Stigamatan etuvartioaseman vastustuksesta huolimatta erilainen pyhiinvaellusliikenne Nowhereen on lisääntynyt viime vuosikymmeninä huomattavasti ja suurin osa siitä kulkee Shaprutin kautta. 
-
-## Criticorum
-
-Toinen Al-Malikien hallitsema planeetta, eräs tunnetun maailman vilkkaimmista kauttakulkupaikoista ja väkirikkaimmista planeetoista. Criticorum oli tasavaltojen aikana jopa hetken koko tunnetun maailman pääkaupunki, mutta yhden hypyn päässä sijaitseva Byzantium Secundus on aina ollut keisarikunnan keskus.
-
-Criticorum on lähes kahden ja puolen biljoonan ihmisen ja miljoonien muiden lajien edustajien koti, ja sen kaupungit ovat tunnettujen maailmojen mittapuulla valtavia. Suurkaupungeissa on suurkaupunkien tunnelma joka on kaukan Shaprutin idyllistä ja mystiikasta. Valtataistelu Criticorumissa on brutaalia, kuten on elämä muutenkin - vuosittain kansa saa sirkushuvia muun muassa tuomittujen rikollisten gladiaattoritaisteluista.
-
-Useimmat kauttakulkijat eivät välttämättä koskaan tosin edes astu planeetalle, sillä systeemin suurin avaruusasema on rakennettu Criticorumin Ardelle-kuuhun. Sen kautta kulkee peräti seitsemän reitin kautta saapuva ja lähtevä liikenne, mikä tekee Ardellesta erään tunnetun maailman vilkkaimmista asemista. Al-Malikien kyky partioida ja puolustaa systeemiä on väliaikaisesti kärsinyt symbioottinen tuhottua kamikaze-tyyppisillä häivealuksilla myös Ardelle-kuussa sijainneen laivasto-aseman, jonka jälleenrakennus on alkamassa näillä hetkillä.
+Linja ajetaan noin puolen standardivuoden välein, pidemmät pysähdykset Byzantium Secunduksessa ja Shaprutissa. Tarkempaa tietoa voi lukea [tunnetun maailman kuvauksesta](planeetat.md).

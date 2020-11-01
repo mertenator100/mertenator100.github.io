@@ -1,7 +1,9 @@
 site_name: Fading Suns
 nav:
-    - Home: 'index.md'    
-    - Maailma: 'maailma.md'
+    - Home: 'index.md'
+    - 'Maailma':    
+        - 'Yleiskuvaus': 'maailma.md'
+        - 'Tunnetut planeetat': 'planeetat.md'
     - Säännöt: 'saannot.md'
     - Kampanja: 'kampanja.md'
     - 'Kaudet':

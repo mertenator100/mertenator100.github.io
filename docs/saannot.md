@@ -1,29 +1,57 @@
 # Säännöistä
 
-## Mekaniikat
+## Hahmonluonti
 
-Tässä kampanjassa sovelletaan Over The Edgen (todennäköisesti kaikille pelaajille tuttuja toisen laitoksen) sääntöjä; ne ovat mukavan vapaamuotoiset, toimivat osaltaan hahmon kuvauksena ja ne on helppo oppia. Jätetään taktisemmat ja raskaammat säännöt muihin peleihin (ja/tai toisille pelaajille). 
+Tässä kampanjassa sovelletaan Over The Edgen (todennäköisesti kaikille pelaajille tuttuja toisen laitoksen) WARP-sääntöjä; ne ovat mukavan vapaamuotoiset, toimivat osaltaan hahmon kuvauksena ja ne on helppo oppia. Jätetään taktisemmat ja raskaammat säännöt muihin peleihin (ja/tai toisille pelaajille). 
 
-Yleisiä suuntaviivoja traiteista:
+Hahmoille valitaan yksi keskeinen piirre (central trait) ja kaksi sivupiirrettä (side traits), sekä yksi tai useampi negatiivista piirrettä (flaws). Jonkin piirteistä olisi hyvä kuvata *kuka* hahmo on, eli aatelisella yksi piirre voisi ainakin sivuta hänen aatelisuuttaan, kiltalaisella piirre voisi kuvata hänen osaamistaan (ja samalla ehkä kiltaa), papilla vähän viitata mihin sektiin tämä kuuluu. Pakollista tämä ei ole, hahmolappuun voi toki vain kirjoittaa hahmon ammatin - tällöin on tuiki tavallinen ammattinsa tai asemansa edustaja.
 
-* Central trait: Jos tämä hahmo määrittelee sosiaalisessa mielessä kuka hahmo on, niin tämä niin halutessa voi kertoa hahmon omaisuudesta, vaikutusvallata ja asemasta. Esimerkkejä:
-    * Aatelinen. Tällä voi aika vapaasti määritellä vaikutusvallan ja omaisuuden, joskin kampanjan premissi on syytä ottaa huomioon: kokonaista aurinkokuntaa hallitsevalla herttualla on harvemmin syytä ottaa itse sellaisia riskejä joita pelaajahahmot tuppaavat ottamaan. Herttualla joka ei (enää?) hallitse läänityksiä voisi tällaisia syitä olla. Tai herttuan perijällä. Runsaasti omaisuutta ja kontakteja - saattaa omistaa oman avaruusaluksen, kutsujen hommaaminen tilaisuuksiin hoituu helposti, "tiedättekö kuka minä olen?".
-    * Killan edustaja. Lentäjä (Charioteer) tietää hyvin laajasti avaruuteen, hyppyportteihin, avaruusaluksiin ja tavallisiin ilma-aluksiin liittyvistä asioista, sekä killan sisäisistä asioista. Tietokoneisiin perehtynyt insinööri varmaan omaa laajasti tietoa kaikesta tekniikasta ja voi esimerkiksi olla tunnetun maailman johtavia tietokoneinsinöörejä.
-    * Pappi. Kts alla.
-* Side trait: kohtuullisessa määrin omaisuutta, vaikutusvaltaa ja asemaa. Esimerkkejä:
-    * Aatelinen. Paroni, ritari, tai joku muu vähän vähemmän keskeinen aatelinen - voi olla myös keskeisemmän aatelisen perijä tai sukulainen. Todennäköisesti käytettävissä aika paljon omaisuutta ja kontakteja, mutta nämä ovat esimerkiksi paikallisempia kuin central traitilla. Baron of Greater Shitville on paroni, mutta Shitville on Shitville.
-    * Killan edustaja. Side trait voisi kuvata hahmon työtä ja kyvykkyyttä: hän on hyvä siinä mitä hän tekee, mutta jokin muu asia (central trait) määrittelee vielä paremmin kuka hän on. Kontaktit ja maine paikallisia, muualla näiden eteen joutuu tekemään enemmän töitä.
-    * Pappi. Kts. alla.
-* Jos Central ja side traitit eivät kuvaa hahmon ammattia, vaan jotain muuta, voidaan olettaa että hahmolla on asemaansa nähden sopivasti omaisuutta tai kontakteja. Aatelisperheen vesa jolla ei itsellään ole kummoista titteliä, eikä juuri käytöstapoja ja käteistä enempää mukanaan. Palkkasoturi jolla on taitoja ja historiaa, joilla ei kuitenkaan ole hirveästi käyttöä tässä ja nyt. Uskonmies joka ei ei tee ihmeitä (paitsi soveliaan dramaattisessa paikassa). Palvelija.
+Lisäksi perussäännöistä poiketen voit käyttää kaksi *optiota*, joilla voi ostaa tasoja vaikutusvallassa, voimassa tai tuurissa, tai sitten voit käyttää molemmat optiot ja ottaa hahmolle kolmannen sivupiirteen.
 
-Mystisten asioiden käsittelyssä sovelletaan seuraavia suuntaviivoja:
+### Keskeinen piirre  (4d)
 
-* Jos hahmolla on jotain mystisiä voimia, pitää jonkun hahmon traiteista sivuta tätä voimaa.
-    * Central trait: hahmo on uskossaan tai muussa voimassaan **vahva** ja voi käyttää kaikkia sääntökirjasta löytyviä soveltuvia voimia. Jos Central trait on esimerkiksi jollain tapaa *Taisteluveli* (Brother Battle), on mahdollista käyttää kaikkia ekumeenisia ja taisteluveljien rituaaleja tai niitä vastaavia voimia - tällöin hahmo keskiössä on nimenomaan usko, eikä niinkään esimerkiksi taistelukyky; tällainen voisi olla esimerkiksi iäkäs munkki joka ei ole enää niin fyysisen voimansa tunnossa, tai viisi vuotta yksinäisyydessä viettänyt soturimunkki, jonka ainoa ase on kehonsa. Riippuen vähän traitin kuvauksesta pelaajan on syytä harkita kuinka usein ja kuinka vahvoja voimia, sekä ennen kaikkea missä tilateessa niitä käytetään. PSI-voimat central traittina omaava hahmo on sitten jo jonkinlainen velho - hyvällä konseptilla ihan ok, mutta olisin kyllä vähän varovainen tällaisten kanssa.
-    * Side trait: hahmolla saattaa olla jonkinlaisia PSI-voimia, tai on esimerkiksi kirkon edustaja, jonka ensisijainen määrittävä tekijä ei ole uskonvoimat. Tällaisia voisivat olla esimerkiksi hieman poliittisempi Urth Orthodox -pappi tai perinteinen mörssärityyppinen Taisteluveli jolla on miekka ja usko - central trait lienee sitten enemmän fyysiseen maailmaan keskittyvä.
-* Stigma: kaikilla mystisiä voimia omaavilla hahhmoilla on stigma, joka esiintyy kuin voimia käytetään. Central trait tarkoittaa todella näkyvää stigmaa (pappi saattaa hohtaa pyhää valoa, tms), side trait sellaista jonka huomaa (elohiiri PSI-voimissa, tms). Esimerkkejä ja ohjeita Players Guidessa.
+Jos keskeinen piirre sisältää viittauksen aatelisarvoon tai papin senioriteettiin/asemaan sektissään, kuvaa tämä piirre silloin vaikutusvallan osalta *paikallista* vaikutusvaltaa. Mikäli keskeinen piirre on esimerkiksi "Peräseinäjoen Kreivi", on hahmo todellakin korkea-avoinen aatelinen ja aateluuteen liittyviissä asioissa hän on hyvin taitava (lahjakas ratsastaja, verraton miekkamies ja kova tyyppi metsästämään kettuja), mutta Peräseinäjoki on Peräseinäjoki, eikä jollain toisella planeetalla ole siitä kuultukaan - kontaktit rajoittuvat omaan sukuun ja pääasiassa Pohjanmaan suurruhtinaskuntaan. Sama juttu Peräseinäjoen Arkkipiispalla. Kiltalaisella joka on hävittäjäpilottina piirun verran Luke Skywalkeria parempi ei todennäköisesti ole omaa avaruusalusta, eikä noin kaluunoiden puolesta ole luutnanttia parempi.
 
-Mystisten voimien käyttö ei ole justiinsa-niin-kuin-sääntökirjassa, vaan sääntökirjaa voi lähinnä pitää ohjenuorana siitä millaisia ihmeitä minkäkin kirkon sektin edustaja tekee, ja millaisia niiden voimatasot ovat. PSI-voimia omaavilla hahmoilla seula on vähän tiukempi: side traitilla osaa käyttää jonkinlaisia voimia, esimerkiksi telekinesiaa. Central traitilla muutamia erilaisia voimia.
+### Sivupiirteet (2x3d)
 
-Traittien on hyvä kuitenkin kertoa enemmän hahmosta kuin kuvata suoraan mitään pelimekaanista tai edes valtahierarkiaan liittyvää asiaa, mutta molempia voi ujuttaa samaan traittiin. "Paroni von Kugel, jakoviniittien kasvattama Decados-suvun sulava operaattori" kuvaa aika hyvin hahmon taitoja, mutta myös sitä kuka hän on (toki tässä pitää tietää että Jakovinian Agency on Decados-suvun ikioma Mossad ja jos Decadokset noin yleisesti ottaen ovat kaikki jokseenkin harjaantuneita tiedustelu- ja hämärähommissa, niin von Kugel on sitten ihan Bond).
+Samat kuin keskeisissä piirteissä, mutta hahmo ei vain ole niin korkea-arvoinen tai ihan yhtä taitava. Peräseinäjoen Paroni.
 
+### Negatiivinen piirre (1)
+
+Myös tämä voi toki kuvata hahmon asemaa. "Peräseinäjoen vihattu ja brutaali paroni".
+
+### Vaikutusvalta
+
+Vaikutusvalta kuvaa hahmon *suhteellista vaikutusvaltaa*. Mikäli siihen ei osta lisää tasoja on vaikutusvaltaa 1 taso, joka kuvaa sellaista vaikutusvaltaa, kontaktien määrää ja asemaa maailmassa kuin mitä hahmon piirteistä voisi päätellä. Jos hahmon keskeinen piirre on *"keskeinen Hawkwood-kreivi"*, on tällä joka tapauksessa aika pirusti vaikutusvaltaa vaikka yhtään lisätasoja ei ostaisikaan. Lisätasoilla sitä voi sitten laajentaa vaikkapa laajoihin kontakteihin joita on saanut toimittuaan diplomatiatehtävissä.
+
+1. Normaali - vaikutusvaltaa, kontakteja, feimiä sen verran kun hahmolla asemansa puolesta voisi arvella olevan.
+2. Merkittävä - paikallinen suuruus, josta tiedetään muuallakin. Laajasti kontakteja omissa piireissään, jonkin verran kontakteja piirien ulkopuolella (esimerkiksi joku aatelinen on insinöörille palveluksia velkaa, tms). Hahmolla saattaa olla käytettävissään avaruusalus.
+3. Huomattava - hahmo on keskeinen tekijä tunnetussa maailmassa ja/tai omaa todella laajat kontaktiverkot ja/tai todella paljon omaisuutta ja resursseja. Hahmolla voi olla oma avaruusalus miehistöineen.
+
+### Voimat
+
+Voimat kuvaavat hahmon uskon määrää, ja tässä tapauksessa hahmon kykyä manifestoida uskoaan tekemällä ihmeitä. Joillain harvoilla henkilöillä voi olla PSI-voimia, jolloin tämä kuvaa niiden voimakkuutta. Hahmo, jolla on Voima 1, ei ole merkittävää kykyä manifestoida uskoaan, eikä tällä ole PSI-voimia. Pappi, jolla on Voima 1, voi kyllä hyvin toimia pappina ja toimittaa virkaansa, mutta varsinaisiin ihmetekoihin hän ei pysty. Rukous saattaa nopeuttaa parantamista, äkäinen avestiitti on vaarallinen voimista riippumatta ja taisteluveljen miekka lohkoo kyllä epäuskoisia ihan normimoodissakin.
+
+1. Normaali ihminen. Tavallinen pappi, munkki tai inkvisiittori.
+2. Merkittävä. Uskossaan vahva, kykenee merkittäviin ihmetekoihin joskin sektinsä oppien rajoissa, ja aika laajasti vähemmän merkittäviin ihmetekoihin. Taisteluveli pystyy siis ihmeellisiin tekoihin taistelutilanteessa, mutta ei ehkä ihan samanlaisiin ihmeparantelimisiin (paitsi ehkä jos toveri on kuolettavasti haavoittunut **taistelussa**). Vastaavat PSI-voimat olisivat jonkin yksittäisen polun hallitseminen.
+3. Huomattava. Tuleva pyhimys, kykenee ihmetekoihin jotka voivat olla melkein mitä vain (mutta manifestoituvat oman sektin oppien mukaisesti). Vastaavat PSI-voimat olisivat kahden tai jopa kolmen polun voimien hallinta ja sellainen psyykikko-Gandalfin olemus.
+
+### Tuuri
+
+Tuuri on lähinnä pelitekninen arvo, eli käyttämällä tuuripisteitä saa bonusnoppia heittoihinsa. Pisteitä voi käyttää useampia yksittäiseen heittoon.
+
+1. Normi-ihmisen tuuri, joskus (kerran pelikerrassa) vähän lykästää. 1d bonusta pelikerrassa.
+2. Voi pojat ja jummi jammi, hän on syntynyt onnellisten tähtien alla! Tämä henkilö mahdollisesti viihtyy kolikkopelien äärellä. 2d bonusta pelikerrassa.
+3. Lykästää jo niin paljon että tämä voisi melkein olla rinnasteinen Voima kolmoselle. Pyhä Hanhivaaran Hannu olkoon kanssanne. 3d bonusta pelikerrassa.
+
+Erikoiset voimat heitetään lähtökohtaisesti yhdellä nopalla, mutta pelaaja voi käyttää joko hahmon Voimaa tai Tuuria ja lisätä heitettävien noppien määrää kuluttamalla pisteitä. Pisteet palautuvat pelikertojen välillä.
+
+## Voimat (usko ja PSI)
+
+Voimia ja tuuria voi käyttää pelisessiossa rajallisesti. Kosmeettinen uskon ja PSI-voimien ("liekki kämmenellä", rukous pikaisen parantumisen puolesta (ehkä vaikutusta, ehkä ei), kirkon pyhittäminen, jne) käyttäminen ei syö pisteitä. Sellainen voimienkäyttö jolla selvästi jonkinlaista pelimekaanista tai tarinallista vaikutusta, syö pisteen Voimaa. Normi-ihminen voi sitten oikein pinnistämällä tehdä yhden pienen ihmeen per pelikerta (ja vain jos se todella sopii hahmoon ja hetkeen - joskus se rippipappikin onnistuu karkoittamaan demonin) ja tuleva Pyhä Pistoleerus kykenee tekemään yhdestä kolmeen ihmetystä, tai sitten kertaalleen jotain todella ikimuistoista.
+
+*TODO: pitää vielä miettiä mitä voiman käyttäminen pelimekaanisesti tarkoittaa - että tuleeko heittoa ja bonusnoppaa, vai tapahtuuko vain ihmeitä. Bonusnopat olisivat helpompia mutta vähän tylsä vaihtoehto - sitten se olisi vähän sama kuin tuuri.*
+
+## Taistelu
+
+*TODO: Taistelusäännöt vielä mietinnän alla. Että mennäänkö ihan yksinkertaisilla heitto - resoluutio, vai aletaanko laskeskelemaan vaurioita ja hipareita. Todennäköisesti ainakin ekalla kaudella mennään ihan simppeleillä heitoilla.*
