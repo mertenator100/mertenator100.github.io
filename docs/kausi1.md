@@ -30,7 +30,7 @@ Kuuttakymmentä käyvä, lentäjien (Charioteers) killan kapteeni, joka tapaa pu
 
 **Hovimestari Anton Reynard**
 
-![Reynard](/img/butler.jpg)
+<img src="/img/butler.jpg" alt="Reynard" title="Reynard" width="200" height="200" />
 
 Kuvittele itsesi 1800-luvun Pariisin keskustan pompöösiin kalaravintolaan tilaamaan ostereita. Voit kuvitella hovimestari Reynardin ottamaan vastaan tilauksesi. Reynard on harmaantuva ja moitteettomasti pukeutuva paremman väen palvelija, joka saattaa tuntua hieman kylmäkiskoiselta laivaan hyvin satunnaisesti eksyvälle alemman keskiluokan edustajalle. Palvelijat ovat sitten asia erikseen - Reynard on varsin hyvä johtamaan myös matkustajien palvelusväen toimintaa, mikäli isäntäväki haluaa esimerkiksi nauttia aterian huoneistossaan. Mahdolliset arvovaltakiistat ratkaistaan hyvin hyvin hyvin pitkällä kaavalla, paitsi jos peli on aivan selvä.
 
@@ -38,13 +38,13 @@ Reynard on toki myös ammattilainen, loppuun asti. Asiakkaiden toiveet täytetä
 
 **Baarimikko Luis**
 
-![Luis](/img/bartender.jpg)
+<img src="/img/bartender.jpg" alt="Luis" title="Luis" width="200" height="200" />
 
 Kirkassilmäinen ja oikeaa ikäänsä huomattavasti nuoremmalta näyttävä Luis on laivan baarimikko, jonka voi satunnaisesti tavata myös tarjoilemasta aamiaista tai lounasta. Valtaosan päivästä hän kuitenkin viettää laivan baarissa valmistaen asiakkaiden pyynnöstä mitä eksoottisimpia cocktaileja. Luisilla tuntuu olevan hämmästyttävä muisti, on kyseessä sitten tunnettujen maailmojen vähemmän tunnetut juomakulttuurit tai asiakkaan lempijuoma. Luis myös tapaa puhua tavallisuudesta poiketen hyvin hitaasti ehdottaessaan asiakkaan toiveisiin sopivia juomasekoituksia. Mutta sellaisia ne taiteilijat ovat.
 
 **Turvapäällikkö Lin Sha-Hua**
 
-![Lin](/img/security.jpg)
+<img src="/img/security.jpg" alt="Lin" title="Lin" width="200" height="200" />
 
 Aluksen turvallisuudesta vastaa pienikokoinen aasialainen nainen, joka kantaa univormussaan melko huomaamatonta palkkasotureiden (musters) killan merkkiä. Sha-Huaa ei kukaan ensinäkemältä arvaisi laivan turvapäälliköksi, vaan ehkä pikemminkin keittiöstä tai pesulasta vastaavaksi, mutta univormun vyöllä roikkuva melko huomaamaton lamautin on ihan hyvä vihje. Sha-Hua ei töissä ollessaan paljoa puhu, mutta hänet voi usein tavata iltaisin laivan baarista valvomasta matkustajien turvallisuutta. Hän saattaa valvoa sitä melko myöhäänkin.
 
@@ -52,15 +52,19 @@ Aluksen turvallisuudesta vastaa pienikokoinen aasialainen nainen, joka kantaa un
 
 **Paroni, Sir Percival Hawkwood**
 
-![Percival](/img/percival.jpg)
+<img src="/img/percival.jpg" alt="Percival" title="Percival" width="200" height="200" />
 
 Kunnioitetun Hawkwoodien suvun suuresti kunnioitettu lähettiläs ja herrasmies, noin viisikymppinen viiksekäs herrasmies.
 
 **Isä Apostheos, Paroni Hawkwoodin rippi-isä**
 
+<img src="/img/apostheos.jpg" alt="Apostheos" title="Apostheos" width="200" height="200" />
+
 Kunnioitetun Paroni Hawkwoodin seuralainen ja uskottu, asemastaan huolimatta miellyttävä seuramies ja paljon maailmaa nähnyt melko maallisen oloinen pappi. Tulee hyvin ja yleensä melko pitkään juttuun baarimestari Luisin kanssa.
 
 **Dame Josephine Hawkwood**
+
+<img src="/img/josephine.jpg" alt="Josephine" title="Josephine" width="200" height="200" />
 
 Nuori, ei varmastikaan vielä kahtakymmentä täyttänyt Hawkwoodien suvun ritari ja Paroni Hawkwoodin aseenkantaja. Vai voisiko Dame Josephine mahdollisesti olla jo yli kahdenkymmenen? Hän kyllä kantaa itseään hyvin itsevarmasti, mutta olisihan se jos yli kahdenkymmenen käyvä aatelinen olisi vielä aseenkantaja.
 
