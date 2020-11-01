@@ -24,9 +24,13 @@ Linja-aluksilla matkustaa monenlaista väkeä, mutta *Ikuisuuden Tuulilla* matku
 
 **Kapteeni Clarissa Kyst**
 
-Kuuttakymmentä käyvä, harmaita hiuksiaan ylpeästi kantava ajurien killan kapteeni, joka tapaa pukeutua aina miehistön tai matkustajien parissa liikkuessaan moitteettomaan valkoiseen univormuun. Kyst on helposti lähestyttävä, mutta hieman yksiulotteinen urakapteeni, joka tuntuu aina komentaneen linja-alusta. Kyst on omimmillaan small talkissa hieman vähäistä vaikutusvaltaisempien aatelisten kanssa; hän on kapteeni joka osaa antaa arvoa tärkeähköjen henkilöiden melko yhdentekeville näkemyksille. Myös kolmosluokan matkustajat saavat Kystiltä ystävällistä, mutta hieman etäistä huomiota - ykkösluokassa mahdollisesti matkustavat silmäätekevät saavat kaiken huomion ja, no, kaiken muunkin mitä kapteenilla on heille annettavissa.
+![Kyst](/img/captain.jpeg)
+
+Kuuttakymmentä käyvä, lentäjien (Charioteers) killan kapteeni, joka tapaa pukeutua aina miehistön tai matkustajien parissa liikkuessaan moitteettomaan valkoiseen univormuun. Kyst on helposti lähestyttävä, mutta hieman yksiulotteinen urakapteeni, joka tuntuu aina komentaneen linja-alusta. Kyst on omimmillaan small talkissa hieman vähäistä vaikutusvaltaisempien aatelisten kanssa; hän on kapteeni joka osaa antaa arvoa tärkeähköjen henkilöiden melko yhdentekeville näkemyksille. Myös kolmosluokan matkustajat saavat Kystiltä ystävällistä, mutta hieman etäistä huomiota - ykkösluokassa mahdollisesti matkustavat silmäätekevät saavat kaiken huomion ja, no, kaiken muunkin mitä kapteenilla on heille annettavissa.
 
 **Hovimestari Anton Reynard**
+
+![Reynard](/img/butler.jpeg)
 
 Kuvittele itsesi 1800-luvun Pariisin keskustan pompöösiin kalaravintolaan tilaamaan ostereita. Voit kuvitella hovimestari Reynardin ottamaan vastaan tilauksesi. Reynard on harmaantuva ja moitteettomasti pukeutuva paremman väen palvelija, joka saattaa tuntua hieman kylmäkiskoiselta laivaan hyvin satunnaisesti eksyvälle alemman keskiluokan edustajalle. Palvelijat ovat sitten asia erikseen - Reynard on varsin hyvä johtamaan myös matkustajien palvelusväen toimintaa, mikäli isäntäväki haluaa esimerkiksi nauttia aterian huoneistossaan. Mahdolliset arvovaltakiistat ratkaistaan hyvin hyvin hyvin pitkällä kaavalla, paitsi jos peli on aivan selvä.
 
@@ -39,6 +43,22 @@ Kirkassilmäinen ja oikeaa ikäänsä huomattavasti nuoremmalta näyttävä Luis
 **Turvapäällikkö Lin Sha-Hua**
 
 Aluksen turvallisuudesta vastaa pienikokoinen aasialainen nainen, joka kantaa univormussaan melko huomaamatonta palkkasotureiden (musters) killan merkkiä. Sha-Huaa ei kukaan ensinäkemältä arvaisi laivan turvapäälliköksi, vaan ehkä pikemminkin keittiöstä tai pesulasta vastaavaksi, mutta mustan univormun vyöllä roikkuva melko huomaamaton lamautin on ihan hyvä vihje. Sha-Hua ei töissä ollessaan paljoa puhu, mutta hänet voi usein tavata iltaisin laivan baarista valvomasta matkustajien turvallisuutta. Hän saattaa valvoa sitä melko myöhäänkin.
+
+### Aluksen matkustajia Shaprut - Criticorum -välillä
+
+**Paroni, Sir Percival Hawkwood**
+
+Kunnioitetun Hawkwoodien suvun suuresti kunnioitettu lähettiläs ja herrasmies, noin viisikymppinen viiksekäs herrasmies.
+
+**Isä Apostheos, Paroni Hawkwoodin rippi-isä**
+
+Kunnioitetun Paroni Hawkwoodin seuralainen ja uskottu, asemastaan huolimatta miellyttävä seuramies ja paljon maailmaa nähnyt melko maallisen oloinen pappi. Tulee hyvin ja yleensä melko pitkään juttuun baarimestari Luisin kanssa.
+
+**Dame Josephine Hawkwood**
+
+Nuori, ei varmastikaan vielä kahtakymmentä täyttänyt Hawkwoodien suvun ritari ja Paroni Hawkwoodin aseenkantaja. Vai voisiko Dame Josephine mahdollisesti olla jo yli kahdenkymmenen? Hän kyllä kantaa itseään hyvin itsevarmasti, mutta olisihan se jos yli kahdenkymmenen käyvä aatelinen olisi vielä aseenkantaja.
+
+No, ehkä aika käy vähän hitaammin Hawkwoodeille.
 
 ### Risteilyohjelma
 
@@ -86,4 +106,26 @@ Aika            | Tapahtuma
 --------------- | ----------
 10. Päivä 21.30 | Tanssiesitys (teatteri)
 --------------- | ----------
-11. Päivä 11.30 | Telakoituminen Criticorumin keskusasemalle (yöpuoli)
+11. Päivä 11.30 | Telakoituminen Criticorumin kuuhun Ardelle-asemalle, josta jatkoyhteydet planeetalle ja muihin maailmoihin. *Ikuisuuden Tuulet* jatkaa kolmen päivän kuluttua matkaansa Gwynnethiin.
+
+### Ikuisuuden tuulien linjareitti
+
+Shaprut - Criticorum - Gwynneth - Ravenna - Delphi - Tethys - Byzantium Secundus - Pyre - Criticorum - Shaprut.
+
+Linja ajetaan noin puolen standardivuoden välein, pidemmät pysähdykset Byzantium Secunduksessa ja Shaprutissa.
+
+## Shaprut
+
+Al-Malik suvun hallitsema planeetta, joka voisi olla jonkinlainen myyttinen Kairo tai Casablanca tuotuna vehreälle maankaltaiselle planeetalle. Shaprutia pidetään yhtenä kauneimmista tunnetuista maailmoista, ja Al-Malikien pitkä valtakausi tuo planeetalle ainakin pintapuolisesti vivahteen andalusialaista tunnelmaa, jonka alla on aistittavissa jäänteen planeetan alunperin asuttaneiden intialaisten tuomasta kulttuurista. Al-Malik tunnetaan aatelisista suvuista oppineimpina, tieteen ja taiteen tukijoina, ja Shaprutin kaupungit ovat täynnä jonkinlaista jälki-maurilaista estetiikkaa - palatsit puutarhoineen ovat suuria ja täynnä mosaiikkeja, basaareilla on kiihkeä ja vähän mystinen tunnelma. 
+
+Shaprut on myös viimeinen pysähdyspaikka ennen Stigmataa, jonka hyppyportti sijaitsee yhden Shaprutin portilta lähtevän reitin päässä. Stigmatalla vuosikymmeniä käyty sota symbiootteja vastaan on hiljentynyt, mutta porttia vartioiva etuvartioasema on edelleenkin kuuluisa äärimmäisen tiukasta valvonnastaan. Myös Shaprutin hyppyportin valvonta Al-Malikien toimesta on huomattavan jämäkkää, joskaan ei mitenkään verrattavissa Stigmataan.
+
+Shaprutin basaarit tunnettuja siitä että suljettuihin maailmoihin matkaavat tekevät viimeiset varustetäydennykset sieltä - ja että oikealla hinnalla Shaprutista on saatavilla kaikenlaista suljetuista maailmoista tuotua tavaraa. Samoin kauttakulkuliikenne on vilkasta; Stigmata on ainoa reitti Nowheren maailmaan, josta löytyy paitsi runsaasti toisen tasavallan aikaisia raunioita, myös vanhempien rotujen perintöä kuten Nowheren gargoili, valtava patsas jonka sanotaan antavan sen lähellä aikaa viettäville visioita. Stigamatan etuvartioaseman vastustuksesta huolimatta erilainen pyhiinvaellusliikenne Nowhereen on lisääntynyt viime vuosikymmeninä huomattavasti ja suurin osa siitä kulkee Shaprutin kautta. 
+
+## Criticorum
+
+Toinen Al-Malikien hallitsema planeetta, eräs tunnetun maailman vilkkaimmista kauttakulkupaikoista ja väkirikkaimmista planeetoista. Criticorum oli tasavaltojen aikana jopa hetken koko tunnetun maailman pääkaupunki, mutta yhden hypyn päässä sijaitseva Byzantium Secundus on aina ollut keisarikunnan keskus.
+
+Criticorum on lähes kahden ja puolen biljoonan ihmisen ja miljoonien muiden lajien edustajien koti, ja sen kaupungit ovat tunnettujen maailmojen mittapuulla valtavia. Suurkaupungeissa on suurkaupunkien tunnelma joka on kaukan Shaprutin idyllistä ja mystiikasta. Valtataistelu Criticorumissa on brutaalia, kuten on elämä muutenkin - vuosittain kansa saa sirkushuvia muun muassa tuomittujen rikollisten gladiaattoritaisteluista.
+
+Useimmat kauttakulkijat eivät välttämättä koskaan tosin edes astu planeetalle, sillä systeemin suurin avaruusasema on rakennettu Criticorumin Ardelle-kuuhun. Sen kautta kulkee peräti seitsemän reitin kautta saapuva ja lähtevä liikenne, mikä tekee Ardellesta erään tunnetun maailman vilkkaimmista asemista. Al-Malikien kyky partioida ja puolustaa systeemiä on väliaikaisesti kärsinyt symbioottinen tuhottua kamikaze-tyyppisillä häivealuksilla myös Ardelle-kuussa sijainneen laivasto-aseman, jonka jälleenrakennus on alkamassa näillä hetkillä.
