@@ -24,7 +24,7 @@ Linja-aluksilla matkustaa monenlaista väkeä, mutta *Ikuisuuden Tuulilla* matku
 
 **Kapteeni Clarissa Kyst**
 
-![Kyst](/img/captain.jpg)
+<img src="/img/captain.jpg" alt="Kyst" title="Kyst" width="200" height="200" />
 
 Kuuttakymmentä käyvä, lentäjien (Charioteers) killan kapteeni, joka tapaa pukeutua aina miehistön tai matkustajien parissa liikkuessaan moitteettomaan valkoiseen univormuun. Kyst on helposti lähestyttävä, mutta hieman yksiulotteinen urakapteeni, joka tuntuu aina komentaneen linja-alusta. Kyst on omimmillaan small talkissa hieman vähäistä vaikutusvaltaisempien aatelisten kanssa; hän on kapteeni joka osaa antaa arvoa tärkeähköjen henkilöiden melko yhdentekeville näkemyksille. Myös kolmosluokan matkustajat saavat Kystiltä ystävällistä, mutta hieman etäistä huomiota - ykkösluokassa mahdollisesti matkustavat silmäätekevät saavat kaiken huomion ja, no, kaiken muunkin mitä kapteenilla on heille annettavissa.
 
