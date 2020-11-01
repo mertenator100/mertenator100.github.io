@@ -38,15 +38,21 @@ Reynard on toki myös ammattilainen, loppuun asti. Asiakkaiden toiveet täytetä
 
 **Baarimikko Luis**
 
+![Luis](/img/bartender.jpg)
+
 Kirkassilmäinen ja oikeaa ikäänsä huomattavasti nuoremmalta näyttävä Luis on laivan baarimikko, jonka voi satunnaisesti tavata myös tarjoilemasta aamiaista tai lounasta. Valtaosan päivästä hän kuitenkin viettää laivan baarissa valmistaen asiakkaiden pyynnöstä mitä eksoottisimpia cocktaileja. Luisilla tuntuu olevan hämmästyttävä muisti, on kyseessä sitten tunnettujen maailmojen vähemmän tunnetut juomakulttuurit tai asiakkaan lempijuoma. Luis myös tapaa puhua tavallisuudesta poiketen hyvin hitaasti ehdottaessaan asiakkaan toiveisiin sopivia juomasekoituksia. Mutta sellaisia ne taiteilijat ovat.
 
 **Turvapäällikkö Lin Sha-Hua**
 
-Aluksen turvallisuudesta vastaa pienikokoinen aasialainen nainen, joka kantaa univormussaan melko huomaamatonta palkkasotureiden (musters) killan merkkiä. Sha-Huaa ei kukaan ensinäkemältä arvaisi laivan turvapäälliköksi, vaan ehkä pikemminkin keittiöstä tai pesulasta vastaavaksi, mutta mustan univormun vyöllä roikkuva melko huomaamaton lamautin on ihan hyvä vihje. Sha-Hua ei töissä ollessaan paljoa puhu, mutta hänet voi usein tavata iltaisin laivan baarista valvomasta matkustajien turvallisuutta. Hän saattaa valvoa sitä melko myöhäänkin.
+![Lin](/img/security.jpg)
+
+Aluksen turvallisuudesta vastaa pienikokoinen aasialainen nainen, joka kantaa univormussaan melko huomaamatonta palkkasotureiden (musters) killan merkkiä. Sha-Huaa ei kukaan ensinäkemältä arvaisi laivan turvapäälliköksi, vaan ehkä pikemminkin keittiöstä tai pesulasta vastaavaksi, mutta univormun vyöllä roikkuva melko huomaamaton lamautin on ihan hyvä vihje. Sha-Hua ei töissä ollessaan paljoa puhu, mutta hänet voi usein tavata iltaisin laivan baarista valvomasta matkustajien turvallisuutta. Hän saattaa valvoa sitä melko myöhäänkin.
 
 ### Aluksen matkustajia Shaprut - Criticorum -välillä
 
 **Paroni, Sir Percival Hawkwood**
+
+![Percival](/img/percival.jpg)
 
 Kunnioitetun Hawkwoodien suvun suuresti kunnioitettu lähettiläs ja herrasmies, noin viisikymppinen viiksekäs herrasmies.
 
