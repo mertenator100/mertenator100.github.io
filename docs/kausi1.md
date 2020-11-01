@@ -24,13 +24,13 @@ Linja-aluksilla matkustaa monenlaista väkeä, mutta *Ikuisuuden Tuulilla* matku
 
 **Kapteeni Clarissa Kyst**
 
-![Kyst](/img/captain.jpeg)
+![Kyst](../img/captain.jpeg)
 
 Kuuttakymmentä käyvä, lentäjien (Charioteers) killan kapteeni, joka tapaa pukeutua aina miehistön tai matkustajien parissa liikkuessaan moitteettomaan valkoiseen univormuun. Kyst on helposti lähestyttävä, mutta hieman yksiulotteinen urakapteeni, joka tuntuu aina komentaneen linja-alusta. Kyst on omimmillaan small talkissa hieman vähäistä vaikutusvaltaisempien aatelisten kanssa; hän on kapteeni joka osaa antaa arvoa tärkeähköjen henkilöiden melko yhdentekeville näkemyksille. Myös kolmosluokan matkustajat saavat Kystiltä ystävällistä, mutta hieman etäistä huomiota - ykkösluokassa mahdollisesti matkustavat silmäätekevät saavat kaiken huomion ja, no, kaiken muunkin mitä kapteenilla on heille annettavissa.
 
 **Hovimestari Anton Reynard**
 
-![Reynard](/img/butler.jpeg)
+![Reynard](../img/butler.jpeg)
 
 Kuvittele itsesi 1800-luvun Pariisin keskustan pompöösiin kalaravintolaan tilaamaan ostereita. Voit kuvitella hovimestari Reynardin ottamaan vastaan tilauksesi. Reynard on harmaantuva ja moitteettomasti pukeutuva paremman väen palvelija, joka saattaa tuntua hieman kylmäkiskoiselta laivaan hyvin satunnaisesti eksyvälle alemman keskiluokan edustajalle. Palvelijat ovat sitten asia erikseen - Reynard on varsin hyvä johtamaan myös matkustajien palvelusväen toimintaa, mikäli isäntäväki haluaa esimerkiksi nauttia aterian huoneistossaan. Mahdolliset arvovaltakiistat ratkaistaan hyvin hyvin hyvin pitkällä kaavalla, paitsi jos peli on aivan selvä.
 
