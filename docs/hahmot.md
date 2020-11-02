@@ -2,7 +2,7 @@
 
 *TODO*
 
-Linkkejä ja vinkkejä.
+Aatelisten arvonimiä.
 
 [Noble hierarchy](https://fadingsuns.fandom.com/wiki/Noble_Hierarchy)
 
@@ -19,11 +19,11 @@ Dean        | Master        | Dean      | Colonel   | Dean
 
 Kirkon arvonimiä.
 
-Ortohodox/Avesti/Aeon | Brother Battle     | Eskatonic
-----------------------| ------------------ | -------------- |
-Novitate              | Apprentice         | Novitate       |
-Canon                 | Oblate             | Provost        |
-Deacon                | Acolyte            | Illuminatus    |
-Priest                | Adept              | Philosophus    |
-Bishop                | Master             | Magister       |
-Archbishop            | Grand Master       | Presburetos    |
+Ortohodox/Avesti/Aeon  | Brother Battle     | Eskatonic      |
+---------------------- | ------------------ | -------------- |
+Novitate               | Apprentice         | Novitate       |
+Canon                  | Oblate             | Provost        |
+Deacon                 | Acolyte            | Illuminatus    |
+Priest                 | Adept              | Philosophus    |
+Bishop                 | Master             | Magister       |
+Archbishop             | Grand Master       | Presburetos    |
