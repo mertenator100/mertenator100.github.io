@@ -58,7 +58,7 @@ Varustamo haluaa tarjota kunnianarvoisille matkustajille vain parasta, siksi alu
 
 <img src="/img/theatre.jpg" alt="teatteri" title="teatteri" width="200" height="200" />
 
-Ei tylsää hetkeä aluksella, sillä seurananne on kuuluisa tanssiva, laulava ja esiintyvä taiteilijaryhmä Shaprutin Siskot (tunnettiin vuoteen 2018 asti nimellä *tanssivat dervissit*, mutta nimi vaihdettiin markkinointisyistä). Nämä monitaitoiset nuoret (ja vähän vanhemmat, jo on siellä kaksi miestäkin) esiintyvät taiteilijat 
+Ei tylsää hetkeä aluksella, sillä seurananne on kuuluisa tanssiva, laulava ja esiintyvä taiteilijaryhmä Shaprutin Siskot (tunnettiin vuoteen 2018 asti nimellä *tanssivat dervissit*, mutta nimi vaihdettiin markkinointisyistä). Nämä monitaitoiset nuoret (ja vähän vanhemmat, ja on siellä kaksi miestäkin) esiintyvät taiteilijat esittävät matkan aikana peräti kaksi mainiota teatteriesitys, kaksi mukaansatempaavaa tanssiesitystä ja kaksi eteeristä lauluesitystä. Oikeudet muutoksiin pidetään.
 
 ### Aluksen matkustajia Shaprut - Criticorum -välillä
 
@@ -66,7 +66,7 @@ Ei tylsää hetkeä aluksella, sillä seurananne on kuuluisa tanssiva, laulava j
 
 <img src="/img/percival.jpg" alt="Percival" title="Percival" width="200" height="200" />
 
-Kunnioitetun Hawkwoodien suvun suuresti kunnioitettu lähettiläs ja herrasmies, noin viisikymppinen viiksekäs herrasmies.
+Kunnioitetun Hawkwoodien suvun suuresti kunnioitettu lähettiläs ja herrasmies, noin viisikymppinen herrasmies.
 
 **Isä Apostheos, Paroni Hawkwoodin rippi-isä**
 
@@ -152,9 +152,9 @@ Liikemiehet, tuo tunnetun maailman selkäranka, aina luomassa liikevoittoa! Herr
 
 <img src="/img/apurit.jpg" alt="apurit" title="apurit" width="200" height="200" />
 
-Valitse neljä, valitse mitkä tahansa neljä. Nämä herrat jakavat keskenään hytin ja ovat hyvin samanlaisia, innokkaita tulevaisuuden liikemiehiä. Mahdollisesti koulutus aiheesta "asiakas on aina oikeassa" järjestetään vasta joskus myöhemmin. Ja tapakoulutus, ovat hieman tuppisuisia, jopa töykeitä.
+Nämä herrat jakavat keskenään hytin ja ovat hyvin samanlaisia, innokkaita tulevaisuuden liikemiehiä. Mahdollisesti koulutus aiheesta "asiakas on aina oikeassa" järjestetään vasta joskus myöhemmin. Ja tapakoulutus, ovat hieman tuppisuisia, jopa töykeitä.
 
-**kersantti Herman Brown**
+**Kersantti Herman Brown**
 
 <img src="/img/herman.jpg" alt="Herman" title="Herman" width="200" height="200" />
 
