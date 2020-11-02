@@ -5,6 +5,7 @@ nav:
         - 'Yleiskuvaus': 'maailma.md'
         - 'Tunnetut planeetat': 'planeetat.md'
     - Säännöt: 'saannot.md'
+    - Hahmonluonti: 'hahmot.md'
     - Kampanja: 'kampanja.md'
     - 'Kaudet':
         - 'Ensimmäinen kausi: ryöstö': 'kausi1'

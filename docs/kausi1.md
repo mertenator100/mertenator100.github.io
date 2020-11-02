@@ -70,6 +70,66 @@ Nuori, ei varmastikaan vielä kahtakymmentä täyttänyt Hawkwoodien suvun ritar
 
 No, ehkä aika käy vähän hitaammin Hawkwoodeille.
 
+**Herttuatar, Dame Lianna Justinian**
+
+<img src="/img/damejustinian.jpg" alt="Dame Justinian" title="Dame Justinian" width="200" height="200" />
+
+Hänen korkeutensa, herttuatar Lianna Justinian, on vanhaa aatelissukua, eikä hänellä ole aikomustakaan antaa kenenkään unohtaa sitä. Ei, vaikka Justinianin suvun tähti on jo kauan ollut laskussa ja reitti heidän kotimaailmaansa katkennut vuosisatoja sitten. Vanha rouva viettää enimmäkseen aikaansa hytissään, ja antaa kamarineitonsa hoitaa juoksevat asiat.
+
+**Lady Kathrin, Herttuattaren kamarineito**
+
+<img src="/img/kathrin.jpg" alt="Kathrin" title="Kathrin" width="200" height="200" />
+
+Noin nelikymmenvuotias melko hiljainen ja syrjäänvetäytyvä nainen, jonka vuodet Herttuattaren palveluksessa kamarineitona ovat varmasti muokanneet nykyisenkaltaiseksi.
+
+**Sir Juri Menshikov Decados**
+
+<img src="/img/juridecados.jpg" alt="Juri" title="Juri" width="200" height="200" />
+
+Noin kolmikymppinen nuori aatelisherra, palaamassa kotiin häämatkaltaan Shaprutista yhdessä puolisonsa kanssa. Juri tuntuu olevan kaikkea sitä mitä Decadosten ei yleensä koeta olevan; miellyttävä, hyvin pukeutuva ja tahdikas.
+
+**Lady Maria Volkonsky Decados**
+
+<img src="/img/mariadecados.jpg" alt="Maria" title="Maria" width="200" height="200" />
+
+Hieman miestään vanhempi Maria Decados liitelee aluksen käytävillä lähes eteerisen hauraasti ja tapaa tuijottaa hyvin piinaavasti silmiin keskustelukumppaneitaan. Lady Maria keskustelee mielellään, myös hieman esoteerisemmista aiheista kuten siitä voiko Quija-laudoilla keskustella luotettavasti esi-isien ja/tai tähtien välissä asuvien olentojen kanssa.
+
+Tässä kohden hänen miehensä yleensä ilmestyy paikalle muistuttamaan että Marian on aika ottaa rauhoittava kamomillatee.
+
+**Illuminaatti, Isä Mattjhis**
+
+<img src="/img/matthjis.jpg" alt="Matthjis" title="Matthjis" width="200" height="200" />
+
+Eskatoonisen veljeskunnan pappi, joka saapuu jostain ja on menossa jonnekin - näistä uskonveljistä ei ota selvää, eivätkä he välttämättä aina itsekään tiedä seuraavaa pysäkkiä pidemmälle suunnitelmiaan. Isä Matthjis ei kuitenkaan vaikuta olevan kauhean pahasti sekaisin, vaan enemmänkin mieheltä jolla on elämässään tarkoitus.
+
+Siitä on tosin paha sanoa miksi eskatoonikko matkustaa yhdessä avestiitin kanssa.
+
+**Rovasti Pyrrhon**
+
+<img src="/img/pyrrhon.jpg" alt="Pyrrhon" title="Pyrrhon" width="200" height="200" />
+
+Vaikka avestiitti on yleensä vain hieman laivarottaa miellyttävämpi matkakumppani, ei rovasti Pyrrhonia voi väittää mitenkään epämiellyttäväksi persoonaksi. Hieman suoraviivaiseksi ja maanläheiseksi ehkä, mutta ei mitenkään päällekäyväksi. Jollain tapaa on kuitenkin aivan selvää että kanssamatkustajien on syytä pitää jumalat jalassa ja housut mielessä, ettei Rovastin tarvitse käydä kenenkään kanssa syvällistä uskonnollista keskustelua.
+
+Hän matkustaa yhdessä Isä Mattjhiksen kanssa ja herrat jakavat selvästi saman päämäärän tai tehtävän, vaikka eivät nyt mitenkään erityisesti vietä aikaa toistensa seurassa. Ehkä Shaprutissa kirkolla on tiukka budjetti ja joskus uskonveljet joutuvat tekemään myönnytyksiä matkajärjestelyiden suhteen.
+
+**Vouti Josefin Meynchant**
+
+<img src="/img/josefin.jpg" alt="Josefin" title="Josefin" width="200" height="200" />
+
+Moitteettomasti ja maltillisesti pukeutuva Josefin on selvästi tottunut liikkumaan piireissä - yleensä huomaamattomasti kuten Reeves-killan edustajan kuuluu. Hän ei ole hirveästi pitänyt meteliä asemastaan tai työstään, mutta on selvästi liikkeellä jonkinlaisella killan asialla - ja tuntuu olevan koulutukseltaan jonkinlainen asianhoitaja, mahdollisesti neuvonantaja.
+
+**Hua Kun Jin, liikemies**
+
+<img src="/img/huakunjin.jpg" alt="Hua Kun Jin" title="Hua Kun Jin" width="200" height="200" />
+
+Liikemiehet, tuo tunnetun maailman selkäranka, aina luomassa liikevoittoa! Herra Hua Kun Jin on liikematkalla, mukanaan neljä samalla tavalla pukeutuvaa nuorempaa herrasmiestä joita hän kutsuu leikkisästi "apureiksi".
+
+**Hua Kun Jinin apurit**
+
+<img src="/img/apurit.jpg" alt="apurit" title="apurit" width="200" height="200" />
+
+Valitse neljä, valitse mitkä tahansa neljä. Nämä herrat jakavat keskenään hytin ja ovat hyvin samanlaisia, innokkaita tulevaisuuden liikemiehiä. Mahdollisesti koulutus aiheesta "asiakas on aina oikeassa" järjestetään vasta joskus myöhemmin. Ja tapakoulutus, ovat hieman tuppisuisia, jopa töykeitä.
+
 ### Risteilyohjelma
 
 * Muutokset mahdollisia, yst. terveisin. hovimestari. Kaikki ajat standardiaikaa. *
@@ -86,36 +146,24 @@ Aika            | Tapahtuma
 17.30           | Päivällinen 1. kattaus (kolmosluokka)
 18.30           | Päivällinen 2. kattaus (muut luokat)
 
+Matka-ohjelma.
+
 Aika            | Tapahtuma
 --------------- | ----------
 1. Päivä 15.00  | Irroittautuminen Shaprutin kansainväliseltä asemalta
---------------- | ----------
 1. Päivä 21.30  | Kapteenin tervehdys, tanssiesitys (teatteri)
---------------- | ----------
 2. Päivä 21.30  | Liikkuvat kuvat (teatteri)
---------------- | ----------
 3. Päivä 21.30  | Esitys (teatteri)
---------------- | ----------
 4. Päivä 14.00  | Vastaanotto (ballroom)
---------------- | ----------
 5. Päivä 21.30  | Liikkuvat kuvat (teatteri)
---------------- | ----------
 6. Päivä 14.00  | Asettuminen jonoon portille ja hyppy n. 19.00. Ajantasaus.
---------------- | ----------
 7. Päivä 11.00  | Uutiset Criticorumista (teatteri)
---------------- | ----------
 7. Päivä 21.30  | Tanssiesitys (teatteri)
---------------- | ----------
 8. Päivä 14.00  | Vastaanotto (ballroom)
---------------- | ----------
 8. Päivä 21.30  | Liikkuvat kuvat (teatteri)
---------------- | ----------
 9. Päivä 21.30  | Esitys (teatteri)
---------------- | ----------
 10. Päivä 14.00 | Vastaanotto (ballroom)
---------------- | ----------
 10. Päivä 21.30 | Tanssiesitys (teatteri)
---------------- | ----------
 11. Päivä 11.30 | Telakoituminen Criticorumin kuuhun Ardelle-asemalle, josta jatkoyhteydet planeetalle ja muihin maailmoihin. *Ikuisuuden Tuulet* jatkaa kolmen päivän kuluttua matkaansa Gwynnethiin.
 
 ### Ikuisuuden tuulien linjareitti
