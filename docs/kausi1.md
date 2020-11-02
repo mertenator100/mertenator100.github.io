@@ -48,6 +48,18 @@ Kirkassilmäinen ja oikeaa ikäänsä huomattavasti nuoremmalta näyttävä Luis
 
 Aluksen turvallisuudesta vastaa pienikokoinen aasialainen nainen, joka kantaa univormussaan melko huomaamatonta palkkasotureiden (musters) killan merkkiä. Sha-Huaa ei kukaan ensinäkemältä arvaisi laivan turvapäälliköksi, vaan ehkä pikemminkin keittiöstä tai pesulasta vastaavaksi, mutta univormun vyöllä roikkuva melko huomaamaton lamautin on ihan hyvä vihje. Sha-Hua ei töissä ollessaan paljoa puhu, mutta hänet voi usein tavata iltaisin laivan baarista valvomasta matkustajien turvallisuutta. Hän saattaa valvoa sitä melko myöhäänkin.
 
+**Tohtori Martin McCluck**
+
+<img src="/img/tohtori.jpg" alt="Tohtori" title="Tohtori" width="200" height="200" />
+
+Varustamo haluaa tarjota kunnianarvoisille matkustajille vain parasta, siksi aluksen mukana matkustaa aivan oikea tohtori, tohtori Martin McCluck. Hänellä on kaapissaan paljon pulloja, joissa on erivärisiä nesteitä sekä stetoskooppi.
+
+**Shaprutin Siskot, esiintyvä ryhmä**
+
+<img src="/img/theatre.jpg" alt="teatteri" title="teatteri" width="200" height="200" />
+
+Ei tylsää hetkeä aluksella, sillä seurananne on kuuluisa tanssiva, laulava ja esiintyvä taiteilijaryhmä Shaprutin Siskot (tunnettiin vuoteen 2018 asti nimellä *tanssivat dervissit*, mutta nimi vaihdettiin markkinointisyistä). Nämä monitaitoiset nuoret (ja vähän vanhemmat, jo on siellä kaksi miestäkin) esiintyvät taiteilijat 
+
 ### Aluksen matkustajia Shaprut - Criticorum -välillä
 
 **Paroni, Sir Percival Hawkwood**
@@ -81,6 +93,18 @@ Hänen korkeutensa, herttuatar Lianna Justinian, on vanhaa aatelissukua, eikä h
 <img src="/img/kathrin.jpg" alt="Kathrin" title="Kathrin" width="200" height="200" />
 
 Noin nelikymmenvuotias melko hiljainen ja syrjäänvetäytyvä nainen, jonka vuodet Herttuattaren palveluksessa kamarineitona ovat varmasti muokanneet nykyisenkaltaiseksi.
+
+**Pasha Yusif ibn Hamik Al-Malik**
+
+<img src="/img/yusif.jpg" alt="Yusif" title="Yusif" width="200" height="200" />
+
+Hillitty ja huomaavainen Al-Malik -suvun gentlemanni, matkalla kotiplaneetaltaan Shaprutista Byzantium Secundukseen. Väistämättä puheeksi tulevan paljon nopeamman reitin Critcorumin ja Pyren kautta Yusif kuittaa pilke silmäkulmassaan: "Ah, mutta se matka, se on paljon tärkeämpää kuin määränpää".
+
+**Hakim ibn Ali Al-Malik**
+
+<img src="/img/hakim.jpg" alt="Hakim" title="Hakim" width="200" height="200" />
+
+Setänsä Yusifin mukana matkaava nuori Hakim lienee ensimmäistä kertaa matkaamassa Shaprutin ulkopuolelle, ja tuntuu oikein kovasti yrittävän olla vaikuttamatta kosmopoliitista ilmapiiristä.
 
 **Sir Juri Menshikov Decados**
 
@@ -130,6 +154,12 @@ Liikemiehet, tuo tunnetun maailman selkäranka, aina luomassa liikevoittoa! Herr
 
 Valitse neljä, valitse mitkä tahansa neljä. Nämä herrat jakavat keskenään hytin ja ovat hyvin samanlaisia, innokkaita tulevaisuuden liikemiehiä. Mahdollisesti koulutus aiheesta "asiakas on aina oikeassa" järjestetään vasta joskus myöhemmin. Ja tapakoulutus, ovat hieman tuppisuisia, jopa töykeitä.
 
+**kersantti Herman Brown**
+
+<img src="/img/herman.jpg" alt="Herman" title="Herman" width="200" height="200" />
+
+Palkkasoturit harvemmin matkustavat luksusristeilijöillä, mutta kersantti Brownia lienee lykästänyt ja tämä on kerrankin päättänyt matkustaa tyylillä. Todennäköisesti ei tee samaa virhettä uudelleen, sillä ahavoitunut ja, tuota, ihastuttavan maanläheinen kersantti ei täysin sovi muiden matkustajien joukkoon.
+
 ### Risteilyohjelma
 
 * Muutokset mahdollisia, yst. terveisin. hovimestari. Kaikki ajat standardiaikaa. *
@@ -153,15 +183,15 @@ Aika            | Tapahtuma
 1. Päivä 15.00  | Irroittautuminen Shaprutin kansainväliseltä asemalta
 1. Päivä 21.30  | Kapteenin tervehdys, tanssiesitys (teatteri)
 2. Päivä 21.30  | Liikkuvat kuvat (teatteri)
-3. Päivä 21.30  | Esitys (teatteri)
+3. Päivä 21.30  | Teatteriesitys (teatteri)
 4. Päivä 14.00  | Vastaanotto (ballroom)
 5. Päivä 21.30  | Liikkuvat kuvat (teatteri)
 6. Päivä 14.00  | Asettuminen jonoon portille ja hyppy n. 19.00. Ajantasaus.
 7. Päivä 11.00  | Uutiset Criticorumista (teatteri)
-7. Päivä 21.30  | Tanssiesitys (teatteri)
+7. Päivä 21.30  | Lauluesitys (teatteri)
 8. Päivä 14.00  | Vastaanotto (ballroom)
 8. Päivä 21.30  | Liikkuvat kuvat (teatteri)
-9. Päivä 21.30  | Esitys (teatteri)
+9. Päivä 21.30  | Teatteriesitys (teatteri)
 10. Päivä 14.00 | Vastaanotto (ballroom)
 10. Päivä 21.30 | Tanssiesitys (teatteri)
 11. Päivä 11.30 | Telakoituminen Criticorumin kuuhun Ardelle-asemalle, josta jatkoyhteydet planeetalle ja muihin maailmoihin. *Ikuisuuden Tuulet* jatkaa kolmen päivän kuluttua matkaansa Gwynnethiin.
