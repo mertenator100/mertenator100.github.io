@@ -60,7 +60,7 @@ Varustamo haluaa tarjota kunnianarvoisille matkustajille vain parasta, siksi alu
 
 Ei tylsää hetkeä aluksella, sillä seurananne on kuuluisa tanssiva, laulava ja esiintyvä taiteilijaryhmä Shaprutin Siskot (tunnettiin vuoteen 2018 asti nimellä *tanssivat dervissit*, mutta nimi vaihdettiin markkinointisyistä). Nämä monitaitoiset nuoret (ja vähän vanhemmat, ja on siellä kaksi miestäkin) esiintyvät taiteilijat esittävät matkan aikana peräti kaksi mainiota teatteriesitys, kaksi mukaansatempaavaa tanssiesitystä ja kaksi eteeristä lauluesitystä. Oikeudet muutoksiin pidetään.
 
-### Aluksen matkustajia Shaprut - Criticorum -välillä
+### Aluksen aateliset ja näiden seurueita
 
 **Paroni, Sir Percival Hawkwood**
 
@@ -94,7 +94,7 @@ Hänen korkeutensa, herttuatar Lianna Justinian, on vanhaa aatelissukua, eikä h
 
 Noin nelikymmenvuotias melko hiljainen ja syrjäänvetäytyvä nainen, jonka vuodet Herttuattaren palveluksessa kamarineitona ovat varmasti muokanneet nykyisenkaltaiseksi.
 
-**Pasha Yusif ibn Hamik Al-Malik**
+**Pasha Yusif ibn Hamik Al-Malik (baronetti)**
 
 <img src="/img/yusif.jpg" alt="Yusif" title="Yusif" width="200" height="200" />
 
@@ -119,6 +119,12 @@ Noin kolmikymppinen nuori aatelisherra, palaamassa kotiin häämatkaltaan Shapru
 Hieman miestään vanhempi Maria Decados liitelee aluksen käytävillä lähes eteerisen hauraasti ja tapaa tuijottaa hyvin piinaavasti silmiin keskustelukumppaneitaan. Lady Maria keskustelee mielellään, myös hieman esoteerisemmista aiheista kuten siitä voiko Quija-laudoilla keskustella luotettavasti esi-isien ja/tai tähtien välissä asuvien olentojen kanssa.
 
 Tässä kohden hänen miehensä yleensä ilmestyy paikalle muistuttamaan että Marian on aika ottaa rauhoittava kamomillatee.
+
+**Loput aateliset**
+
+<img src="/img/nobles.jpg" alt="Nobles" title="Nobles" width="200" height="200" />
+
+Valtaosa aluksen ensimmäisen ja toisen luokan hyteistä on aatelisten varaamia, ja kaikkineen heitä matkaa Criticorumiin pitkälle kolmattakymmenettä. Valtaosa vähäisempiä aatelisten sukuhaarojen edustajia, ja harvalla on paronia korkeampaa arvoa. He täyttävät juhlasalin vastaanotoilla ja jälkimmäiset päivälliskattaukset.
 
 **Illuminaatti, Isä Mattjhis**
 
@@ -160,6 +166,12 @@ Nämä herrat jakavat keskenään hytin ja ovat hyvin samanlaisia, innokkaita tu
 
 Palkkasoturit harvemmin matkustavat luksusristeilijöillä, mutta kersantti Brownia lienee lykästänyt ja tämä on kerrankin päättänyt matkustaa tyylillä. Todennäköisesti ei tee samaa virhettä uudelleen, sillä ahavoitunut ja, tuota, ihastuttavan maanläheinen kersantti ei täysin sovi muiden matkustajien joukkoon.
 
+**Muut matkustajat**
+
+<img src="/img/bourgeois.jpg" alt="Porvarit" title="Porvarit" width="200" height="200" />
+
+Muu matkustajisto koostuu kauppiaista, virkamiehistä ja hyvin toimeentulevista kansalaisista. Valtaosa heistä matkustaa kolmannen luokan mukavissa, mutta pienehköissä hyteissä ja viettää siksi paljon aikaa ravintolan ja baarin alueella. Laivan teatteri on jokaisen esityksen aikaan täynnä, niiden ollessa ruokailujen lisäksi lähes ainoa asia joka rikkoo monotonisen päivärytmin.
+
 ### Risteilyohjelma
 
 * Muutokset mahdollisia, yst. terveisin. hovimestari. Kaikki ajat standardiaikaa. *
@@ -182,17 +194,18 @@ Aika            | Tapahtuma
 --------------- | ----------
 1. Päivä 15.00  | Irroittautuminen Shaprutin kansainväliseltä asemalta
 1. Päivä 21.30  | Kapteenin tervehdys, tanssiesitys (teatteri)
+2. Päivä 14.00  | Vastaanotto, aateliset (ballroom)
 2. Päivä 21.30  | Liikkuvat kuvat (teatteri)
 3. Päivä 21.30  | Teatteriesitys (teatteri)
-4. Päivä 14.00  | Vastaanotto (ballroom)
+4. Päivä 14.00  | Vastaanotto - naamiaiset, avoin kaikille(ballroom)
 5. Päivä 21.30  | Liikkuvat kuvat (teatteri)
 6. Päivä 14.00  | Asettuminen jonoon portille ja hyppy n. 19.00. Ajantasaus.
 7. Päivä 11.00  | Uutiset Criticorumista (teatteri)
 7. Päivä 21.30  | Lauluesitys (teatteri)
-8. Päivä 14.00  | Vastaanotto (ballroom)
+8. Päivä 14.00  | Vastaanotto - aatelisille(ballroom)
 8. Päivä 21.30  | Liikkuvat kuvat (teatteri)
 9. Päivä 21.30  | Teatteriesitys (teatteri)
-10. Päivä 14.00 | Vastaanotto (ballroom)
+10. Päivä 14.00 | Vastaanotto - avoin kaikille (ballroom)
 10. Päivä 21.30 | Tanssiesitys (teatteri)
 11. Päivä 11.30 | Telakoituminen Criticorumin kuuhun Ardelle-asemalle, josta jatkoyhteydet planeetalle ja muihin maailmoihin. *Ikuisuuden Tuulet* jatkaa kolmen päivän kuluttua matkaansa Gwynnethiin.
 
