@@ -106,12 +106,6 @@ Hillitty ja huomaavainen Al-Malik -suvun gentlemanni, matkalla kotiplaneetaltaan
 
 Setänsä Yusifin mukana matkaava nuori Hakim lienee ensimmäistä kertaa matkaamassa Shaprutin ulkopuolelle, ja tuntuu oikein kovasti yrittävän olla vaikuttamatta kosmopoliitista ilmapiiristä.
 
-**Sir Juri Menshikov Decados**
-
-<img src="/img/juridecados.jpg" alt="Juri" title="Juri" width="200" height="200" />
-
-Noin kolmikymppinen nuori aatelisherra, palaamassa kotiin häämatkaltaan Shaprutista yhdessä puolisonsa kanssa. Juri tuntuu olevan kaikkea sitä mitä Decadosten ei yleensä koeta olevan; miellyttävä, hyvin pukeutuva ja tahdikas.
-
 **Sir Arturo de Veracruz de Hazt**
 
 <img src="/img/arturo.jpg" alt="Arturo" title="Arturo" width="200" height="200" />
@@ -119,6 +113,12 @@ Noin kolmikymppinen nuori aatelisherra, palaamassa kotiin häämatkaltaan Shapru
 Hieman yli kolmekymppinen, mutta ikäisekseen melko nuorennäköinen ritari palaamassa palveluksesta Stigmatalta kohti Hazattien maailmoja. Nuorekkuus ei yllä silmiin asti; niissä on katse jollainen tapaa olla sodan kokeneilla. Jollain tapaa periksi antanut ja vähän ihmisyydestään luopunut, hieman alkukantainen. Sir Arturoa ei varmaan kannata ärsyttää.
 
 Viihtyy baarissa. Tai viihtyminen ei ehkä ole ihan oikea sana.
+
+**Sir Juri Menshikov Decados**
+
+<img src="/img/juridecados.jpg" alt="Juri" title="Juri" width="200" height="200" />
+
+Noin kolmikymppinen nuori aatelisherra, palaamassa kotiin häämatkaltaan Shaprutista yhdessä puolisonsa kanssa. Juri tuntuu olevan kaikkea sitä mitä Decadosten ei yleensä koeta olevan; miellyttävä, hyvin pukeutuva ja tahdikas.
 
 **Lady Maria Volkonsky Decados**
 
