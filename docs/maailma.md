@@ -1,6 +1,6 @@
 # Fading Sunsin maailma
 
-Fading Sunsin maailma sijoittuu 3000 vuotta tulevaisuuteen, tätä kirjoittaessa vuoteen 2020. Ihmiskunta on onnistunut muutamaan otteeseen saamaan itsensä kollektiivisesti polvilleen, noussut uljaasti parempaan huomiseen, vain kyntääkseen taas nenällä peltoa. 
+Fading Sunsin maailma sijoittuu 3000 vuotta tulevaisuuteen, tätä kirjoittaessa vuoteen 5020. Ihmiskunta on onnistunut muutamaan otteeseen saamaan itsensä kollektiivisesti polvilleen, noussut uljaasti parempaan huomiseen, vain kyntääkseen taas nenällä peltoa. 
 Nykyhetkessä ihmiskunta on taas ryömimässä esiin hajaannuksen ajasta ja keisarikunta on ainakin näennäisesti yhtenäinen. Keisari Alexiuksen hellässä huomassa tunnetun maailman ja aurinkokunnat jakavat suuret ja pienemmät aatelissuvut, Urth Orthodox -kirkko sekteineen sekä kauppiaiden killat. Ollaan henkisesti keski-ajan loppupuolen sääty-yhteiskunnassa ja kaukana siitä teknologisen kehityksen huipusta jotka tasavaltojen aikana saavutettiin; osa aurinkokuntien peräseinäjoista on taantunut täysin feodaaliaikaan myös teknisesti, mutta erilaiset killat pystyvät vielä pitämään avaruusalusten kaltaisen perusteknologian toiminnassa. 
 
 Korkeampi teknologia - tietokoneet, robotit, maankaltaistamiskoneet - ovat jotain mitä magia ja mystiikka olivat keski-ajan ihmisille. Äärimmäisen voimakasta ja pelottavaa, ja vain asialle vihkiytyneimmät, rohkeimmat ja hulluimmat puuhastelevat sellaisten asioiden kanssa.
@@ -9,7 +9,7 @@ On myös aivan oikeaa magiaa ja mystiikkaa. Kirkko sekteineen ei ole vain joukko
 
 Vieraita lajeja on kohdattu kohtuullisissa määrin ja on selvää, että maailmankaikkeudessa on ennen ihmistä elänyt teknologisesti paljon edistyneempiä lajeja, jotka ovat jättäneet jälkeensä hyppyporttien lisäksi kaikenlaista vaarallista roinaa ja raunioita, muun muassa joiltain planeetoilta löytyviä valtavia sfiksien tyyppisiä gargoileja.
 
-Fading Sunsin maailmaa voisi siis lyhyesti kuvata scifin ja fantasian pyttipannuksi, jossa on sijaa vähän kaikelle ja oikeassa suhteessa annosteltuna kaikki maistuu aika kivalle.
+Fading Sunsin maailmaa voisi siis lyhyesti kuvata scifin ja fantasian pyttipannuksi, jossa on sijaa vähän kaikelle ja oikeassa suhteessa annosteltuna kaikki maistuu aika kivalle. 
 
 ## Pieni aikajana
 
