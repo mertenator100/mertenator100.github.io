@@ -4,9 +4,11 @@
 
 Tässä kampanjassa sovelletaan Over The Edgen (todennäköisesti kaikille pelaajille tuttuja toisen laitoksen) WARP-sääntöjä; ne ovat mukavan vapaamuotoiset, toimivat osaltaan hahmon kuvauksena ja ne on helppo oppia. Jätetään taktisemmat ja raskaammat säännöt muihin peleihin (ja/tai toisille pelaajille). 
 
-Hahmoille valitaan yksi keskeinen piirre (central trait) ja kaksi sivupiirrettä (side traits), sekä yksi tai useampi negatiivista piirrettä (flaws). Jonkin piirteistä olisi hyvä kuvata *kuka* hahmo on, eli aatelisella yksi piirre voisi ainakin sivuta hänen aatelisuuttaan, kiltalaisella piirre voisi kuvata hänen osaamistaan (ja samalla ehkä kiltaa), papilla vähän viitata mihin sektiin tämä kuuluu. Pakollista tämä ei ole, hahmolappuun voi toki vain kirjoittaa hahmon ammatin - tällöin on tuiki tavallinen ammattinsa tai asemansa edustaja. Piirteiden tärkein tehtävä on kuitenkin kuva *kuka* hahmo on ja mitä tämä osaa. Eli ei tehdä piirteistä tylsiä tyyliin *Decados-aatelinen, osaa aatelishommat*, vaan aiemmissa OtE:n sääntöjä käyttäneissä peleissä syntyneissä hyvissä käytännöissä. Tässä nyt vaahdotaan vaikutusvallasta ja voimista lähinnä sen takia että ne tulee hahmoa luodessa tarvittaessa huomioitua, ollaan kuitenkin sääty-yhteiskunnassa jossa uskovaiset oikeasti kävelee (joskus) vetten päällä.
+Hahmoille valitaan yksi keskeinen piirre (central trait) ja kaksi sivupiirrettä (side traits), sekä yksi tai useampi negatiivista piirrettä (flaws). Jonkin piirteistä olisi hyvä kuvata *kuka* hahmo on, eli aatelisella yksi piirre voisi ainakin sivuta hänen aatelisuuttaan, kiltalaisella piirre voisi kuvata hänen osaamistaan (ja samalla ehkä kiltaa), papilla vähän viitata mihin sektiin tämä kuuluu. Pakollista tämä ei ole, hahmolappuun voi toki vain kirjoittaa hahmon ammatin - tällöin on tuiki tavallinen ammattinsa tai asemansa edustaja. 
 
 Lisäksi perussäännöistä poiketen voit käyttää kaksi *optiota*, joilla voi ostaa tasoja vaikutusvallassa, voimassa tai tuurissa, tai sitten voit käyttää molemmat optiot ja ottaa hahmolle kolmannen sivupiirteen.
+
+Piirteiden tärkein tehtävä on kuvata *kuka* hahmo on ja mitä tämä osaa. Eli ei tehdä piirteistä tylsiä tyyliin *Decados-aatelinen, osaa aatelishommat*, vaan aiemmissa OtE:n sääntöjä käyttäneissä peleissä syntyneissä hyvissä käytännöissä. Tässä nyt vaahdotaan vaikutusvallasta ja voimista lähinnä sen takia että ne tulee hahmoa luodessa tarvittaessa huomioitua, ollaan kuitenkin sääty-yhteiskunnassa jossa uskovaiset oikeasti kävelee (joskus) vetten päällä. Koska niiden käsittely piirteinä johtaisi todennäköisesti juuri tuollaiseen typistettyyn kuvailuun, hoidetaan homma mieluummin erillisillä nakkuloilla.
 
 ### Keskeinen piirre  (4d)
 
@@ -20,7 +22,7 @@ Samat kuin keskeisissä piirteissä, mutta hahmo ei vain ole niin korkea-arvoine
 
 Myös tämä voi toki kuvata hahmon asemaa. "Peräseinäjoen vihattu ja brutaali paroni".
 
-### Vaikutusvalta
+### Vaikutusvalta (1-3 pistettä)
 
 Vaikutusvalta kuvaa hahmon *suhteellista vaikutusvaltaa*. Mikäli siihen ei osta lisää tasoja on vaikutusvaltaa 1 taso, joka kuvaa sellaista vaikutusvaltaa, kontaktien määrää ja asemaa maailmassa kuin mitä hahmon piirteistä voisi päätellä. Jos hahmon keskeinen piirre on *"keskeinen Hawkwood-kreivi"*, on tällä joka tapauksessa aika pirusti vaikutusvaltaa vaikka yhtään lisätasoja ei ostaisikaan. Lisätasoilla sitä voi sitten laajentaa vaikkapa laajoihin kontakteihin joita on saanut toimittuaan diplomatiatehtävissä.
 
@@ -28,7 +30,7 @@ Vaikutusvalta kuvaa hahmon *suhteellista vaikutusvaltaa*. Mikäli siihen ei osta
 2. Merkittävä - paikallinen suuruus, josta tiedetään muuallakin. Laajasti kontakteja omissa piireissään, jonkin verran kontakteja piirien ulkopuolella (esimerkiksi joku aatelinen on insinöörille palveluksia velkaa, tms). Hahmolla saattaa olla käytettävissään avaruusalus.
 3. Huomattava - hahmo on keskeinen tekijä tunnetussa maailmassa ja/tai omaa todella laajat kontaktiverkot ja/tai todella paljon omaisuutta ja resursseja. Hahmolla voi olla oma avaruusalus miehistöineen.
 
-### Voimat
+### Voimat (1-3 pistettä)
 
 Voimat kuvaavat hahmon uskon määrää, ja tässä tapauksessa hahmon kykyä manifestoida uskoaan tekemällä ihmeitä. Joillain harvoilla henkilöillä voi olla PSI-voimia, jolloin tämä kuvaa niiden voimakkuutta. Hahmo, jolla on Voima 1, ei ole merkittävää kykyä manifestoida uskoaan, eikä tällä ole PSI-voimia. Pappi, jolla on Voima 1, voi kyllä hyvin toimia pappina ja toimittaa virkaansa, mutta varsinaisiin ihmetekoihin hän ei pysty. Rukous saattaa nopeuttaa parantamista, äkäinen avestiitti on vaarallinen voimista riippumatta ja taisteluveljen miekka lohkoo kyllä epäuskoisia ihan normimoodissakin.
 
@@ -36,7 +38,7 @@ Voimat kuvaavat hahmon uskon määrää, ja tässä tapauksessa hahmon kykyä ma
 2. Merkittävä. Uskossaan vahva, kykenee merkittäviin ihmetekoihin joskin sektinsä oppien rajoissa, ja aika laajasti vähemmän merkittäviin ihmetekoihin. Taisteluveli pystyy siis ihmeellisiin tekoihin taistelutilanteessa, mutta ei ehkä ihan samanlaisiin ihmeparantelimisiin (paitsi ehkä jos toveri on kuolettavasti haavoittunut **taistelussa**). Vastaavat PSI-voimat olisivat jonkin yksittäisen polun hallitseminen.
 3. Huomattava. Tuleva pyhimys, kykenee ihmetekoihin jotka voivat olla melkein mitä vain (mutta manifestoituvat oman sektin oppien mukaisesti). Vastaavat PSI-voimat olisivat kahden tai jopa kolmen polun voimien hallinta ja sellainen psyykikko-Gandalfin olemus.
 
-### Tuuri
+### Tuuri (1-3 pistettä)
 
 Tuuri on lähinnä pelitekninen arvo, eli käyttämällä tuuripisteitä saa bonusnoppia heittoihinsa. Pisteitä voi käyttää useampia yksittäiseen heittoon.
 
