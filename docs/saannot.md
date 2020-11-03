@@ -10,6 +10,13 @@ Lisäksi perussäännöistä poiketen voit käyttää kaksi *optiota*, joilla vo
 
 Piirteiden tärkein tehtävä on kuvata *kuka* hahmo on ja mitä tämä osaa. Eli ei tehdä piirteistä tylsiä tyyliin *Decados-aatelinen, osaa aatelishommat*, vaan aiemmissa OtE:n sääntöjä käyttäneissä peleissä syntyneissä hyvissä käytännöissä. Tässä nyt vaahdotaan vaikutusvallasta ja voimista lähinnä sen takia että ne tulee hahmoa luodessa tarvittaessa huomioitua, ollaan kuitenkin sääty-yhteiskunnassa jossa uskovaiset oikeasti kävelee (joskus) vetten päällä. Koska niiden käsittely piirteinä johtaisi todennäköisesti juuri tuollaiseen typistettyyn kuvailuun, hoidetaan homma mieluummin erillisillä nakkuloilla.
 
+Kertauksena:
+
+1. Keksi keskeinen piire.
+2. Keksi kaksi sivupiirrettä.
+3. Keksi yksi tai useampi negatiivinen piirre.
+4. Käytä kaksi optiota: Keksi kolmas sivupiirre tai sijoita kaksi pistettä vaikutusvaltaan, voimaan tai tuuriin haluamallasi tavalla. Vaikutusvalta, voima ja tuuri ovat aina vähintään 1, joten kahdella pisteellä voit vaikkapa hankkia vaikutusvallaksi 3 tai tai vaikutusvallaksi 2 ja voimaksi 2.
+
 ### Keskeinen piirre  (4d)
 
 Jos keskeinen piirre sisältää viittauksen aatelisarvoon tai papin senioriteettiin/asemaan sektissään, kuvaa tämä piirre silloin vaikutusvallan osalta *paikallista* vaikutusvaltaa. Mikäli keskeinen piirre on esimerkiksi "Peräseinäjoen Kreivi", on hahmo todellakin korkea-avoinen aatelinen ja aateluuteen liittyviissä asioissa hän on hyvin taitava (lahjakas ratsastaja, verraton miekkamies ja kova tyyppi metsästämään kettuja), mutta Peräseinäjoki on Peräseinäjoki, eikä jollain toisella planeetalla ole siitä kuultukaan - kontaktit rajoittuvat omaan sukuun ja pääasiassa Pohjanmaan suurruhtinaskuntaan. Sama juttu Peräseinäjoen Arkkipiispalla. Kiltalaisella joka on hävittäjäpilottina piirun verran Luke Skywalkeria parempi ei todennäköisesti ole omaa avaruusalusta, eikä noin kaluunoiden puolesta ole luutnanttia parempi.
