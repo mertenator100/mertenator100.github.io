@@ -34,7 +34,7 @@ Kuuttakymmentä käyvä, lentäjien (Charioteers) killan kapteeni, joka tapaa pu
 
 Kuvittele itsesi 1800-luvun Pariisin keskustan pompöösiin kalaravintolaan tilaamaan ostereita. Voit kuvitella hovimestari Reynardin ottamaan vastaan tilauksesi. Reynard on harmaantuva ja moitteettomasti pukeutuva paremman väen palvelija, joka saattaa tuntua hieman kylmäkiskoiselta laivaan hyvin satunnaisesti eksyvälle alemman keskiluokan edustajalle. Palvelijat ovat sitten asia erikseen - Reynard on varsin hyvä johtamaan myös matkustajien palvelusväen toimintaa, mikäli isäntäväki haluaa esimerkiksi nauttia aterian huoneistossaan. Mahdolliset arvovaltakiistat ratkaistaan hyvin hyvin hyvin pitkällä kaavalla, paitsi jos peli on aivan selvä.
 
-Reynard on toki myös ammattilainen, loppuun asti. Asiakkaiden toiveet täytetään, statukseta riippumatta. Kaikki asiakkaat saavat palvelua, toisen henkilökohtaista, toisen vähemmän.
+Reynard on toki myös ammattilainen, loppuun asti. Asiakkaiden toiveet täytetään, statukseta riippumatta. Kaikki asiakkaat saavat palvelua, toisen henkilökohtaista, toiset vähemmän.
 
 **Baarimikko Luis**
 
@@ -126,6 +126,8 @@ Tässä kohden hänen miehensä yleensä ilmestyy paikalle muistuttamaan että M
 
 Valtaosa aluksen ensimmäisen ja toisen luokan hyteistä on aatelisten varaamia, ja kaikkineen heitä matkaa Criticorumiin pitkälle kolmattakymmenettä. Valtaosa vähäisempiä aatelisten sukuhaarojen edustajia, ja harvalla on paronia korkeampaa arvoa. He täyttävät juhlasalin vastaanotoilla ja jälkimmäiset päivälliskattaukset.
 
+### Aluksen muut matkustajat
+
 **Illuminaatti, Isä Mattjhis**
 
 <img src="/img/matthjis.jpg" alt="Matthjis" title="Matthjis" width="200" height="200" />
@@ -152,7 +154,7 @@ Moitteettomasti ja maltillisesti pukeutuva Josefin on selvästi tottunut liikkum
 
 <img src="/img/huakunjin.jpg" alt="Hua Kun Jin" title="Hua Kun Jin" width="200" height="200" />
 
-Liikemiehet, tuo tunnetun maailman selkäranka, aina luomassa liikevoittoa! Herra Hua Kun Jin on liikematkalla, mukanaan neljä samalla tavalla pukeutuvaa nuorempaa herrasmiestä joita hän kutsuu leikkisästi "apureiksi".
+Liikemiehet, tuo tunnetun maailman selkäranka, aina luomassa liikevoittoa! Herra Hua Kun Jin on liikematkalla, mukanaan viisi samalla tavalla pukeutuvaa nuorempaa herrasmiestä joita hän kutsuu leikkisästi "apureiksi".
 
 **Hua Kun Jinin apurit**
 
