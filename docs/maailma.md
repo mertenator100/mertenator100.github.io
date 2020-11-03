@@ -1,11 +1,12 @@
 # Fading Sunsin maailma
 
-Fading Sunsin maailma sijoittuu 3000 vuotta tulevaisuuteen, tätä kirjoittaessa vuoteen 5020. Ihmiskunta on onnistunut muutamaan otteeseen saamaan itsensä kollektiivisesti polvilleen, noussut uljaasti parempaan huomiseen, vain kyntääkseen taas nenällä peltoa. 
-Nykyhetkessä ihmiskunta on taas ryömimässä esiin hajaannuksen ajasta ja keisarikunta on ainakin näennäisesti yhtenäinen. Keisari Alexiuksen hellässä huomassa tunnetun maailman ja aurinkokunnat jakavat suuret ja pienemmät aatelissuvut, Urth Orthodox -kirkko sekteineen sekä kauppiaiden killat. Ollaan henkisesti keski-ajan loppupuolen sääty-yhteiskunnassa ja kaukana siitä teknologisen kehityksen huipusta jotka tasavaltojen aikana saavutettiin; osa aurinkokuntien peräseinäjoista on taantunut täysin feodaaliaikaan myös teknisesti, mutta erilaiset killat pystyvät vielä pitämään avaruusalusten kaltaisen perusteknologian toiminnassa. 
+Fading Sunsin maailma sijoittuu 3000 vuotta tulevaisuuteen, tätä kirjoittaessa vuoteen 5020. Ihmiskunta on onnistunut muutamaan otteeseen saamaan itsensä kollektiivisesti polvilleen, noussut uljaasti parempaan huomiseen, vain kyntääkseen taas nenällä peltoa. Nykyhetkessä ihmiskunta on taas ryömimässä esiin hajaannuksen ajasta ja keisarikunta on ainakin näennäisesti yhtenäinen. Keisari Alexiuksen hellässä huomassa tunnetun maailman ja aurinkokunnat jakavat suuret ja pienemmät aatelissuvut, Urth Orthodox -kirkko sekteineen sekä kauppiaiden killat. Ollaan henkisesti keski-ajan loppupuolen sääty-yhteiskunnassa ja kaukana siitä teknologisen kehityksen huipusta jotka tasavaltojen aikana saavutettiin; osa aurinkokuntien peräseinäjoista on taantunut täysin feodaaliaikaan myös teknisesti, mutta erilaiset killat pystyvät vielä pitämään avaruusalusten kaltaisen perusteknologian toiminnassa. 
 
 Korkeampi teknologia - tietokoneet, robotit, maankaltaistamiskoneet - ovat jotain mitä magia ja mystiikka olivat keski-ajan ihmisille. Äärimmäisen voimakasta ja pelottavaa, ja vain asialle vihkiytyneimmät, rohkeimmat ja hulluimmat puuhastelevat sellaisten asioiden kanssa.
 
 On myös aivan oikeaa magiaa ja mystiikkaa. Kirkko sekteineen ei ole vain joukko liturgisteja (toki niitäkin), vaan hyppyporttien avautumisen jälkeen maailmankaikkeus on muuttunut paikaksi, jossa on aivan oikeasti synkkiä salaisuuksia. Hyppyporteista kulkeminen aiheuttaa suojaamattomalle matkustajalle jonkinlaisen uskonnollisen kokemuksen (Sathra), jossa kokee samaan aikaan olevansa yhtä maailmankaikkeuden kanssa että näkevänsä silmäkulmassa tämä yhteyden takana kurkistelevat nimettömät olennot. Diasporan aikaan kirkon (uudelleen) perustanut Profeetta teki aivan oikeita ihmeitä, ja ihmeitä tekevät omistautuneimmat kirkon miehet ja -naiset nykyäänkin. Uskolla on voimaa ja maailmassa on paljon selittämättömiä asioita, joilla on myös voimaa.
+
+Ihmiskunta on hajaantunut eri aurinkokuntiin, joiden välillä liikutaan hyppyporttien kautta - kukaan ei oikein tiedä miten ne toimivat. Ihmiskunta sai ne yrityksen ja erehdyksen kautta aikoinaan toimimaan, minkä jälkeen alkoi varsinaine kultaryntäys ja tunnetun avaruuden kartoittaminen. Toisiaan seuranneiden romahdusten, Diasporan, ja pitkän uuden keski-ajan myötä porteista on kuitenkin tullut laitteita joiden varsinaisesta toiminnasta harva enää tietää. Lähinnä yleisesti on tiedossa että lentäjien kilta, joka avaruusmatkailua hallitsee, suojelee mustasukkaisesti porttien ja avaruuslentämisen salaisuuksia.
 
 Vieraita lajeja on kohdattu kohtuullisissa määrin ja on selvää, että maailmankaikkeudessa on ennen ihmistä elänyt teknologisesti paljon edistyneempiä lajeja, jotka ovat jättäneet jälkeensä hyppyporttien lisäksi kaikenlaista vaarallista roinaa ja raunioita, muun muassa joiltain planeetoilta löytyviä valtavia sfiksien tyyppisiä gargoileja.
 
@@ -19,7 +20,7 @@ Todella paljon laajempi (ja tarkistamaton - näyttää kuitenkin suunnilleen lä
 
 Vuosi       | Tapahtuma
 ----------- | ---------
-2100        | Ensimmäinen tasavalta, Zaibatsun, aurinkokunnan valloitus
+2100        | Ensimmäinen tasavalta, Zaibatsut, aurinkokunnan valloitus
 2305        | Hyppyportti löydetään Pluton takaa
 2500        | Ensimmäinen tasavalta kaatuu, aatelisto nousee
 2500 - 3500 | Diaspora, ihmiskunta hajaantuu, planeettojen maankaltaistaminen alkaa
