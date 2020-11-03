@@ -119,21 +119,21 @@ Virkamiehet, pankkiirit, rahanlainaat, koronkiskurit, neuvonantajat ja jossain j
 
 Melkein kaikelle ja kaikille on oma kilta, mutta viiden suurimman lisäksi keskeisiä ovat esimerkiksi esiintyvien taitelijoiden kilta, pedagogit, jopa hovimestareiden kilta.
 
-## Vieraat lajit
+### Vieraat lajit
 
-### VAU
+**Vau**
 
 Mystiset mandariinit, ihmiskuntaa kehittyneempi sivilisaatio joka lähinnä jakelee mystisiä ja metaforisia onnenkeksejä.
 
-### Symbiootit
+**Symbiootit**
 
 Ihmisten, eläimien, kasvien ja ties minkä protoplasman epäpyhä siitos, joka on vallannut ihmiskunnalta kolme planeetta ja käy sotaa Stigmatan sillanpääasemasta, tavoitteenaan vallata loputkin tunnetusta avaruudesta. Satunnaisesti pääsevät etuvartioasemasta ohi, mistä kärsii varsinkin läheinen Al-Malikien hallitsema avaruus. Sota Stigmatalla on nyt muutaman vuoden oudosti hiljentynyt.
 
-### Shantor
+**Shantor**
 
 Al-Malikien Shaprut-planeetalla asuvat heppaiset.
 
-### Ur-Obun ja Ur-Ukar
+**Ur-Obun ja Ur-Ukar**
 
 Ihmisenkaltaisia humanoideja, joita vastaan on sodittukin. Näillä esiintyy enemmän PSI-voimia kuin ihmisillä ja tietävät ihmisiä enemmän suurista muinaisista, eikun ihmisten aikaa edeltäneistä sivilisaatioista. Lähtökohtaisesti eivät vain kerro, koska ihmiset sortavat ja kaikkea.
 
