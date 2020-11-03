@@ -2,13 +2,13 @@
 
 ## Johdanto
 
-Paroni Pervical Hawkwood, suvun arvostettu (joskin hieman stereotyyppisen yläluokkainen) edustaja, on nousemassa avaruusristelijä *Ikuisuuden Tuulien* kyytiin Shaprutin kiertoradalla vietettyään joitain kuukausia ylläpitämässä diplomaattisia suhteita paikallisiin Al-Malik -suvun silmäätekeviin. Edessä on muutaman kuukauden avaruusmatka varsin hyvin varustellulla linjalaivalla läpi Al-Malikien hallitseman avaruuden ja kohti Hawkwoodien hallitsemia aurinkokuntia. On hyvä olla kuningas, vai miten se meni?
+Paroni Percival Hawkwood, suvun arvostettu (joskin hieman stereotyyppisen yläluokkainen) edustaja, on nousemassa avaruusristelijä *Ikuisuuden Tuulien* kyytiin Shaprutin kiertoradalla vietettyään joitain kuukausia ylläpitämässä diplomaattisia suhteita paikallisiin Al-Malik -suvun silmäätekeviin. Edessä on muutaman kuukauden avaruusmatka varsin hyvin varustellulla linjalaivalla läpi Al-Malikien hallitseman avaruuden ja kohti Hawkwoodien hallitsemia aurinkokuntia. On hyvä olla kuningas, vai miten se meni?
 
 Suhteiden hoitamisen ohella Sir Percival tapaa toimia Hawkwoodin suvun kuriirina tarpeen vaatiessa, kuljettaen viestejä ja tavaroita kaikkialla tunnetussa maailmassa toimiville suvun enemmän tai vähemmän tunnustetuille edustajile, sekä tuoden näiltä viestejä sekä tavaroita takaisin suvun hallitsemiin maailmoihin. Tällä kertaa hän on tavannut Shaprutissa salassa suvun palkkalistoilla olevan salakuljettajan, joka on tuonut mukaan jotain hyvin arvokasta Nowherestä Hawkwoodien sponsoroimilta arkeologisilta kaivauksilta. Koska reitti Nowherestä ylipäätänsä minnekään kulkee läpi Stigmatan etuvartioaseman, on minkään arvokkaan salakuljettaminen sieltä pois melkoinen saavutus, joka harvoin pysyy täysin salassa. Eikä ole pysynyt tälläkään kertaa.
 
 ## Pelaajahahmot
 
-Pelaajahamot ovat tavalla tai toisella saaneet tietää Sir Pervicalin tehtävästä ja tämän kuljettamasta omaisuudesta - ja vaikka he eivät tarkalleen tiedä mitä kaivauksilta on löytynyt, on selvää että se on jotain hyvin arvokasta tai hyvin tärkeää, ja todennäköisesti oikeisiin käsiin toimitettuna molempia. He suunnittelevat lastin kaappaamista ennen kuin *Ikuisuuden Tuulet* pääsee Hawkwoodien alueelle, käytännössä siis sen alle kahden viikon aikana kun alus matkaa Shaprutista avaruusportille ja Criticorumissa avaruusportilta planeetan avaruusasemalle.
+Pelaajahamot ovat tavalla tai toisella saaneet tietää Sir Percivalin tehtävästä ja tämän kuljettamasta omaisuudesta - ja vaikka he eivät tarkalleen tiedä mitä kaivauksilta on löytynyt, on selvää että se on jotain hyvin arvokasta tai hyvin tärkeää, ja todennäköisesti oikeisiin käsiin toimitettuna molempia. He suunnittelevat lastin kaappaamista ennen kuin *Ikuisuuden Tuulet* pääsee Hawkwoodien alueelle, käytännössä siis sen alle kahden viikon aikana kun alus matkaa Shaprutista avaruusportille ja Criticorumissa avaruusportilta planeetan avaruusasemalle.
 
 ## Ikuisuuden Tuulet
 
@@ -111,6 +111,14 @@ Setänsä Yusifin mukana matkaava nuori Hakim lienee ensimmäistä kertaa matkaa
 <img src="/img/juridecados.jpg" alt="Juri" title="Juri" width="200" height="200" />
 
 Noin kolmikymppinen nuori aatelisherra, palaamassa kotiin häämatkaltaan Shaprutista yhdessä puolisonsa kanssa. Juri tuntuu olevan kaikkea sitä mitä Decadosten ei yleensä koeta olevan; miellyttävä, hyvin pukeutuva ja tahdikas.
+
+**Sir Arturo de Veracruz de Hazt**
+
+<img src="/img/arturo.jpg" alt="Arturo" title="Arturo" width="200" height="200" />
+
+Hieman yli kolmekymppinen, mutta ikäisekseen melko nuorennäköinen ritari palaamassa palveluksesta Stigmatalta kohti Hazattien maailmoja. Nuorekkuus ei yllä silmiin asti; niissä on katse jollainen tapaa olla sodan kokeneilla. Jollain tapaa periksi antanut ja vähän ihmisyydestään luopunut, hieman alkukantainen. Sir Arturoa ei varmaan kannata ärsyttää.
+
+Viihtyy baarissa. Tai viihtyminen ei ehkä ole ihan oikea sana.
 
 **Lady Maria Volkonsky Decados**
 

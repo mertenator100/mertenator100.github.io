@@ -35,3 +35,107 @@ Vuosi       | Tapahtuma
 4993        | Alexius Hawkwood kruunataan keisariksi
 5001 -      | Pax Alexius
 5020        | Nykyhetki
+
+## Faktiot
+
+### Keisarikunta
+
+Keisari Alexius (os. Hawkwood), tuoreena vaimonaan Freya Eldridsdottir, barbaaristen Vuldrok-heimojen soturi. Näillä vuoden ikäinen prinsessa Aurora, keisarillinen perijä.
+
+### Keskeiset aatelissuvut (joilla ennen keisaria valta valita hallitsija)
+
+**Al-Malik**
+
+Al-Malikeja voisi stereotyyppisesti ajatella avaruuden maureina; vähän mystisiä, suuresti taiteita ja tieteitä kunnioittavia, mutta silti riittävän vallanhaluisia. Suurista aatelissuvuista Al-Malikeilla on läheisimmät suhteet kiltoihin, eniten intoa kaivella menneisyyden aarteita ja tukea tieteitä.
+
+**Decados**
+
+Fading Sunsin omat söpöt pahikset, vahvasti venäläisvaikuttainen Decados-suku. Mitä saadaan kun yhdistetään 50 shades of grey, Cruel intentions, Mantshurian kandidaatti ja muutama muu vastaava teos? Saadaan Decados.
+
+**Hawkwood**
+
+Stiff upper Lip -aateliset, parhaat puolet brittien ja Hapsburgien monarkioista, varsinkin kun vahvasti samat geenit molemmissa. Hawkwoodit ovat vähän parempia kuin muut, vähän perinnetietoisempia, ja ehkä ihan vähän hitaampia. Nykyinen keisari on syntyjään Hawkwood, mutta ottanut sukuunsa suosiolla etäisyyttä, mitä ei katsota ollenkaan hyvällä - oman keisarin piti olla matkalippu lopulliseen suuruuteen. Hawkwoodien riesana ovat Vuldrokit, nuo hauskat (tähtitaivaan) pohjoisen barbaarit.
+
+**Li-Halan**
+
+Itämaisia vaikutteita omaavalla suvulla on kaikkein läheisimmät suhteet kirkkoon, vaikka pahat kielet väittävät että kyse on ehkä enemmänkin politiikasta. Varsinkin kun ne kaikkein pahimmat demoninpalvojat ovat yleensä tulleet samasta suvusta.
+
+**Hazat**
+
+Sotaisat välimerelliset Hazatit, ay ay! Alunperin Chauki-suvun neuvonantajina kunnostautuneet Hazatit päätyivät siihen että heillä on tunnetulle maailmalle isäntiään enemmän annettavaa, ja lemppasivat Chaukit ilmalukosta ulos tai pellon alle puskemaan horsmaa. Nyt suvulla on oma paikkansa aatelisista nopeimmin kiivastuvina, sotilaallisesti vahvimpana ja eniten kaksintaisteluita voittaneena. Ehkä. Hazattien riesana ovat Kurganit, tunnetun maailman ulkopuolella elävät uskonfanaatikot.
+
+### Pienemmät aatellissuvut
+
+Pienempiä aatelissukuja on toistakymmentä - osa on ollut ennen keskeisiä aatelissukuja, mutta osakkeet ja omistukset ovat laskusuunnassa, osa on vain paikallisia suuruuksia.
+
+### Kirkko
+
+On vain yksi kirkko, jonka tunnus on tyyliltelty hyppyporttiristi. Mutta yhdessä kirkossa on eri sektejä.
+
+**Urth Orthodox**
+
+Paikalliset katolilaiset ja hallitseva uskontokunta. Vähän hajuttomat ja mauttomat peruspapit.
+
+**Temple Avesti**
+
+Inkvisitio. Ei mukavia kavereita.
+
+**Sanctuary Aeon**
+
+Nunna- ja munkkiluostarimeinings parannusvoimilla.
+
+**Eskatonic Order**
+
+Kirkon omat huru-ukot, jotka etsivät sitä tietoa joita muut kirkossa eivät uskalla. 
+
+**Brother Battle**
+
+Taisteluveljet. Usko, haarniska, ja aivan pirun iso miekka.
+
+### Killat
+
+**Charioteers**
+
+Lentäjien kilta, joka hallitsee planeettojen välisiä reittejä ja haluaisi hallita myös hyppyportteja, ja oikeastaan ihan kaikkea avaruudessa. 
+
+**Engineers**
+
+Insinöörit ja rakentajat, jotka pitävät paitsi maailman (tai ainakin maailmojen maankaltaistamiskoneet) liikkeessä, ovat myös niitä jotka saavat muinaisista artefakteista ulos jotain muutakin kuin pyhää savua.
+
+**Musters**
+
+Palkkasoturit ja orjamagnaatit - kun killan nimi on johdettu suurten laivojen ajan värväysjoukoista, ei varmaan kannata puhua kauhean korkeasta moraalista. Parhaimmillaan tunnetun maailman parhaita sotajoukkoja, pahimmillaan maajusseja orjiksi ryösteleviä pahiksia.
+
+**Scavers**
+
+Hustlerit, ryövärit, arkeologit, romuntonkijat, jengirikolliset - Scaversit pyörittävät sekä organisoitua rikollisuutta että ovat osaltaan maailmankaikkeuden indianajoneseja.
+
+**Reeves**
+
+Virkamiehet, pankkiirit, rahanlainaat, koronkiskurit, neuvonantajat ja jossain jopa politiikot. Reevesit pitävät yhteiskunnan liikkeessä, mikäli vain palaverikutsuilta ehtivät.
+
+### Pienemmät killat
+
+Melkein kaikelle ja kaikille on oma kilta, mutta viiden suurimman lisäksi keskeisiä ovat esimerkiksi esiintyvien taitelijoiden kilta, pedagogit, jopa hovimestareiden kilta.
+
+## Vieraat lajit
+
+### VAU
+
+Mystiset mandariinit, ihmiskuntaa kehittyneempi sivilisaatio joka lähinnä jakelee mystisiä ja metaforisia onnenkeksejä.
+
+### Symbiootit
+
+Ihmisten, eläimien, kasvien ja ties minkä protoplasman epäpyhä siitos, joka on vallannut ihmiskunnalta kolme planeetta ja käy sotaa Stigmatan sillanpääasemasta, tavoitteenaan vallata loputkin tunnetusta avaruudesta. Satunnaisesti pääsevät etuvartioasemasta ohi, mistä kärsii varsinkin läheinen Al-Malikien hallitsema avaruus. Sota Stigmatalla on nyt muutaman vuoden oudosti hiljentynyt.
+
+### Shantor
+
+Al-Malikien Shaprut-planeetalla asuvat heppaiset.
+
+### Ur-Obun ja Ur-Ukar
+
+Ihmisenkaltaisia humanoideja, joita vastaan on sodittukin. Näillä esiintyy enemmän PSI-voimia kuin ihmisillä ja tietävät ihmisiä enemmän suurista muinaisista, eikun ihmisten aikaa edeltäneistä sivilisaatioista. Lähtökohtaisesti eivät vain kerro, koska ihmiset sortavat ja kaikkea.
+
+### Muut alienit
+
+Onhan niitä, mutta ei nyt loputtomiin asti.
