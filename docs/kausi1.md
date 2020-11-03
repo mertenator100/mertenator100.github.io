@@ -211,6 +211,38 @@ Aika            | Tapahtuma
 10. Päivä 21.30 | Tanssiesitys (teatteri)
 11. Päivä 11.30 | Telakoituminen Criticorumin kuuhun Ardelle-asemalle, josta jatkoyhteydet planeetalle ja muihin maailmoihin. *Ikuisuuden Tuulet* jatkaa kolmen päivän kuluttua matkaansa Gwynnethiin.
 
+### Ohjelmanumerot
+
+**Teatteriesitykset**
+
+*Keisarin Morsian*
+
+Valloittava kuvaelma uuden keisarinnan, joka on kotoisin ulkomailta ja maalaisaatelin säädystä, kommelluksista keisarillisessa hovissa. Vaikka näytelmä on täysin kuvitteellinen, voi valveutunut katsoja ehkä nähdä rivien välissä viiltävää poliittista kommentaaria keisarikunnan nykytilasta.
+
+*Kauppias rajalla*
+
+Kokeellinen ja rohkea teatteriesitys Aylonilaisten kauppiaan matkasta läpi Istakhrin basaarin. Miten erilaiselta ja silti samanlaiselta voikaan matka toiseen maailmaan tuntua!
+
+**Tanssiesitykset**
+
+*Perinteinen Criticorumilainen uhritanssi*
+
+With just a hint of violence.
+
+*Shantorin matka*
+
+Kokeellinen tanssiesitys Shaprutin hevosta muistuttavan alkuperäisrodun kansantarustosta.
+
+**Lauluesitykset**
+
+*Tuhannen joen tarinat*
+
+Kuuluisan Shaprutilaisen laulaja-runoilija Kamal bin Rashid Al-Malikin kauneimmat teokset moniäänisenä tulkintana.
+
+*Konevitsan hulluus*
+
+Laulu-kuvaelma miehestä, joka kurotti liian pitkälle menneisyyteen ja kadotti itsensä. Onneksi paikalla on aina luotettava kirkko laittamassa asiat järjestykseen.
+
 ### Ikuisuuden tuulien linjareitti
 
 Shaprut - Criticorum - Gwynneth - Ravenna - Delphi - Tethys - Byzantium Secundus - Pyre - Criticorum - Shaprut.
