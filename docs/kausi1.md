@@ -243,6 +243,18 @@ Kuuluisan Shaprutilaisen laulaja-runoilija Kamal bin Rashid Al-Malikin kauneimma
 
 Laulu-kuvaelma miehestä, joka kurotti liian pitkälle menneisyyteen ja kadotti itsensä. Onneksi paikalla on aina luotettava kirkko laittamassa asiat järjestykseen.
 
+### Vastaanotot
+
+Matkan aikana järjestetään neljä vastaanottoa, joista kaksi on varattu aatelissäädyn keskinäiseen tutustumiseen. Hieman ennen matkan puolta väliä järjestetään kaikille matkustajille avoimet suuret naamiaiset, joihin odotetaan juhlavaa, mutta tarvittaessa asusteen mukaista pukeutumista. Matkan loppupuolella järjestetään kaikille avoin yhteinen vastaanotto, jossa tarjotaan pientä naposteltavaa ja cocktaileja.
+
+### Harjoitukset
+
+Suuri sali on varattu päivittäin miekkailu - ja muihin harjoituksiin. Huomatkaa: vain harjoitusaseita, ei tuliaseita.
+
+### Muu ohjelma
+
+Välipäivinä teatterissa liikkuvia kuvia (Magic Lantern), ja hypyn jälkeisenä päivänä luetaan teatterissa Criticorumista toimitettu uutiskooste tunnetun maailman viime aikojen tapahtumista.
+
 ### Ikuisuuden tuulien linjareitti
 
 Shaprut - Criticorum - Gwynneth - Ravenna - Delphi - Tethys - Byzantium Secundus - Pyre - Criticorum - Shaprut.
