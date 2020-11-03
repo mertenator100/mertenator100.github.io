@@ -4,7 +4,7 @@
 
 Tässä kampanjassa sovelletaan Over The Edgen (todennäköisesti kaikille pelaajille tuttuja toisen laitoksen) WARP-sääntöjä; ne ovat mukavan vapaamuotoiset, toimivat osaltaan hahmon kuvauksena ja ne on helppo oppia. Jätetään taktisemmat ja raskaammat säännöt muihin peleihin (ja/tai toisille pelaajille). 
 
-Hahmoille valitaan yksi keskeinen piirre (central trait) ja kaksi sivupiirrettä (side traits), sekä yksi tai useampi negatiivista piirrettä (flaws). Jonkin piirteistä olisi hyvä kuvata *kuka* hahmo on, eli aatelisella yksi piirre voisi ainakin sivuta hänen aatelisuuttaan, kiltalaisella piirre voisi kuvata hänen osaamistaan (ja samalla ehkä kiltaa), papilla vähän viitata mihin sektiin tämä kuuluu. Pakollista tämä ei ole, hahmolappuun voi toki vain kirjoittaa hahmon ammatin - tällöin on tuiki tavallinen ammattinsa tai asemansa edustaja.
+Hahmoille valitaan yksi keskeinen piirre (central trait) ja kaksi sivupiirrettä (side traits), sekä yksi tai useampi negatiivista piirrettä (flaws). Jonkin piirteistä olisi hyvä kuvata *kuka* hahmo on, eli aatelisella yksi piirre voisi ainakin sivuta hänen aatelisuuttaan, kiltalaisella piirre voisi kuvata hänen osaamistaan (ja samalla ehkä kiltaa), papilla vähän viitata mihin sektiin tämä kuuluu. Pakollista tämä ei ole, hahmolappuun voi toki vain kirjoittaa hahmon ammatin - tällöin on tuiki tavallinen ammattinsa tai asemansa edustaja. Piirteiden tärkein tehtävä on kuitenkin kuva *kuka* hahmo on ja mitä tämä osaa. Eli ei tehdä piirteistä tylsiä tyyliin *Decados-aatelinen, osaa aatelishommat*, vaan aiemmissa OtE:n sääntöjä käyttäneissä peleissä syntyneissä hyvissä käytännöissä. Tässä nyt vaahdotaan vaikutusvallasta ja voimista lähinnä sen takia että ne tulee hahmoa luodessa tarvittaessa huomioitua, ollaan kuitenkin sääty-yhteiskunnassa jossa uskovaiset oikeasti kävelee (joskus) vetten päällä.
 
 Lisäksi perussäännöistä poiketen voit käyttää kaksi *optiota*, joilla voi ostaa tasoja vaikutusvallassa, voimassa tai tuurissa, tai sitten voit käyttää molemmat optiot ja ottaa hahmolle kolmannen sivupiirteen.
 
@@ -47,6 +47,12 @@ Tuuri on lähinnä pelitekninen arvo, eli käyttämällä tuuripisteitä saa bon
 Erikoiset voimat heitetään lähtökohtaisesti yhdellä nopalla, mutta pelaaja voi käyttää joko hahmon Voimaa tai Tuuria ja lisätä heitettävien noppien määrää kuluttamalla pisteitä. Pisteet palautuvat pelikertojen välillä.
 
 ## Voimat (usko ja PSI)
+
+Valtaosalla tunnetun maailman ihmisistä voima on 1. Uskonvoimat kuitenkin ovat samalla tapaa tunnustettu tosiasia kuin magia fantasiamaailmassa - vahvaa uskoa on ja sitä käytetään, joskus pienempiin ihmeisiin ja joskus sellaisiin joista jäävät legendat elämään. Pancreatorin kirkon hyveillä tiedetään olevan jonkinlaisia korporeaalisia ilmentymiä, joita entisaikaan olisi varmaan nimitetty arkkienkeleiksi. 
+
+Kaikki eivät kirkon oppeihin usko, agnostikkoja ja luonnontieteiden ihanteille omistautuneita on. Kukaan ei kuitenkaan ole vielä tyhjentävästi osannut selittää mitä muuta kuin uskoa ja sen manifestoitumista ihmeteot ovat. Tai että miksi tähdet ovat alkaneet himmetä.
+
+PSI on taasen paljon harvinaisempi ilmiö - osittain siksi että sellaisia voimia pidetään kirkon toimesta hyvin, hyvin pahana asiana. Ja osittain varmaan siksi että PSI-voimien hallitseminen vaatii enemmän tietoista ja ankaraa harjoittelua. Voitaisiin toki spekuloida että ihmetekoihin kykenevien kirkon miesten ja naisten elämä on ehkä samanlaista harjoittelua, harjaantumista ja keskittymistä kuin mitä PSI-voimien hallitsemaan oppiminen vaatii, mutta kirkko ei varsinaisesti kannusta tällaiseen vertailevaan keskusteluun. 
 
 Voimia ja tuuria voi käyttää pelisessiossa rajallisesti. Kosmeettinen uskon ja PSI-voimien ("liekki kämmenellä", rukous pikaisen parantumisen puolesta (ehkä vaikutusta, ehkä ei), kirkon pyhittäminen, jne) käyttäminen ei syö pisteitä. Sellainen voimienkäyttö jolla selvästi jonkinlaista pelimekaanista tai tarinallista vaikutusta, syö pisteen Voimaa. Normi-ihminen voi sitten oikein pinnistämällä tehdä yhden pienen ihmeen per pelikerta (ja vain jos se todella sopii hahmoon ja hetkeen - joskus se rippipappikin onnistuu karkoittamaan demonin) ja tuleva Pyhä Pistoleerus kykenee tekemään yhdestä kolmeen ihmetystä, tai sitten kertaalleen jotain todella ikimuistoista.
 
