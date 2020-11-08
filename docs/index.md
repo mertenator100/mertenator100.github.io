@@ -14,3 +14,4 @@ Linkkejä:
 * [Jumpweb](https://www.deviantart.com/steffenbrand/art/Jumpweb-Map-for-Fading-Suns-852181853) - joku on vääntänyt ihan kauniin kartan. Tämä on tunnettu maailma - erilaisissa lisäosissa on esitelty muitakin planeettoja, mutta nämä ovat ne planeetat ja hyppyportit joista jonkin verran maailmaa tuntevat hahmot saavat kaivettu helposti tietoja.
 * [Rpg Library Open content - Warp](https://ogc.rpglibrary.org/index.php?title=WaRP_System) - OtE:n systeemi wiki-muodossa.
 * [Warp system reference document](https://i.4pcdn.org/tg/1380922493796.pdf) - OtE:n systeemi pdf-muodossa.
+* [Brief Lore of the Fading Suns](https://youtu.be/QOj2zPPcALY) - kymmenen minuutin tiivistelmävideo Fading Sunsin historiasta.

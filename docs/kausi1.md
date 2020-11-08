@@ -106,7 +106,7 @@ Hillitty ja huomaavainen Al-Malik -suvun gentlemanni, matkalla kotiplaneetaltaan
 
 Setänsä Yusifin mukana matkaava nuori Hakim lienee ensimmäistä kertaa matkaamassa Shaprutin ulkopuolelle, ja tuntuu oikein kovasti yrittävän olla vaikuttamatta kosmopoliitista ilmapiiristä.
 
-**Sir Arturo de Veracruz de Hazt**
+**Sir Arturo de Veracruz de Hazat**
 
 <img src="/img/arturo.jpg" alt="Arturo" title="Arturo" width="200" height="200" />
 
