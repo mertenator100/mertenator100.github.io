@@ -137,6 +137,10 @@ Al-Malikien Shaprut-planeetalla asuvat heppaiset.
 
 Ihmisenkaltaisia humanoideja, joita vastaan on sodittukin. Näillä esiintyy enemmän PSI-voimia kuin ihmisillä ja tietävät ihmisiä enemmän suurista muinaisista, eikun ihmisten aikaa edeltäneistä sivilisaatioista. Lähtökohtaisesti eivät vain kerro, koska ihmiset sortavat ja kaikkea.
 
+**Vorox**
+
+Nelikätiset ja parimetriset leppoisat pedot. Kuvittele leijonan ja karhun risteytys joka seisoo kahdella jalalla, omaa melko suoraviivaisen asenteen ja karmivan huumorintajun. Noin niin kuin stereotyyppisesti.
+
 ### Muut alienit
 
 Onhan niitä, mutta ei nyt loputtomiin asti.
