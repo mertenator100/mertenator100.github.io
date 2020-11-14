@@ -64,7 +64,7 @@ Varustamo haluaa tarjota kunnianarvoisille matkustajille vain parasta, siksi alu
 
 **Fellow Jonathan Sharp**
 
-<img src="/img/Engineer.jpg" alt="Sharp" title="Sharp" width="200" height="200" />
+<img src="/img/engineer.jpg" alt="Sharp" title="Sharp" width="200" height="200" />
 
 Ikuisuuden tuulia huoltaa Jonathan Sharp, hieman epäsiisti ja *boheemi* engineers-killan edustaja. Sharp on selvästi kokenut ja hyvä siinä mitä tekee; ei ole helppo homma pitää satoja vuosia vanhaa avaruusalusta toimintakykyisenä, eikä varsinkaan edustuskelpoisena. Yleensä Sharpin löytää konehuoneesta, mutta satunnaisesti tämä joutuu asioimaan matkustajakansilla huoltamassa myös yksinkertaisempia laitteita kuten sviittien jacuzzeja ja niiden kiertovesijärjestelmää. Sharp tykkää soitella huuliharppua konehuoneessa ja huhutaan että hänellä on jossain viinapata porisemassa.
 
