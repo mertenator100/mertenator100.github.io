@@ -26,7 +26,7 @@ Linja-aluksilla matkustaa monenlaista väkeä, mutta *Ikuisuuden Tuulilla* matku
 
 <img src="/img/captain.jpg" alt="Kyst" title="Kyst" width="200" height="200" />
 
-Kuuttakymmentä käyvä, lentäjien (Charioteers) killan kapteeni, joka tapaa pukeutua aina miehistön tai matkustajien parissa liikkuessaan moitteettomaan valkoiseen univormuun. Kyst on helposti lähestyttävä, mutta hieman yksiulotteinen urakapteeni, joka tuntuu aina komentaneen linja-alusta. Kyst on omimmillaan small talkissa hieman vähäistä vaikutusvaltaisempien aatelisten kanssa; hän on kapteeni joka osaa antaa arvoa tärkeähköjen henkilöiden melko yhdentekeville näkemyksille. Myös kolmosluokan matkustajat saavat Kystiltä ystävällistä, mutta hieman etäistä huomiota - ykkösluokassa mahdollisesti matkustavat silmäätekevät saavat kaiken huomion ja, no, kaiken muunkin mitä kapteenilla on heille annettavissa.
+Kuuttakymmentä käyvä, lentäjien (Charioteers) killan kapteeni, joka tapaa pukeutua aina miehistön tai matkustajien parissa liikkuessaan moitteettomaan valkoiseen univormuun. Kyst on helposti lähestyttävä, mutta hieman yksiulotteinen urakapteeni, joka tuntuu aina komentaneen linja-alusta. Kyst on omimmillaan small talkissa hieman vähäistä vaikutusvaltaisempien aatelisten kanssa; hän on kapteeni joka osaa antaa arvoa tärkeähköjen henkilöiden melko yhdentekeville näkemyksille. Myös kolmosluokan matkustajat saavat Kystiltä ystävällistä, mutta hieman etäistä huomiota - ykkösluokassa mahdollisesti matkustavat silmäätekevät saavat kaiken huomion ja, no, kaiken muunkin mitä kapteenilla on heille annettavissa. Kyst ei varsinaisesti ole enää lentäjä, sen homman hoitaa Hoop Karlson - mutta Kystillä on senioriteetti ja ennen kaikkea hallussaan reitin hyppyportin avaimet.
 
 **Hovimestari Anton Reynard**
 
@@ -48,11 +48,43 @@ Kirkassilmäinen ja oikeaa ikäänsä huomattavasti nuoremmalta näyttävä Luis
 
 Aluksen turvallisuudesta vastaa pienikokoinen aasialainen nainen, joka kantaa univormussaan melko huomaamatonta palkkasotureiden (musters) killan merkkiä. Sha-Huaa ei kukaan ensinäkemältä arvaisi laivan turvapäälliköksi, vaan ehkä pikemminkin keittiöstä tai pesulasta vastaavaksi, mutta univormun vyöllä roikkuva melko huomaamaton lamautin on ihan hyvä vihje. Sha-Hua ei töissä ollessaan paljoa puhu, mutta hänet voi usein tavata iltaisin laivan baarista valvomasta matkustajien turvallisuutta. Hän saattaa valvoa sitä melko myöhäänkin.
 
+**Korpraali De Creux**
+
+<img src="/img/korpraali.jpg" alt="Korpraali" title="Korpraali" width="200" height="200" />
+
+Linjalaivalla ei ole keisarillisilta- ja aatelissukujen aluksilta tuttuja avaruusjalkaväen joukkoja, mutta sillä on palkattuna viiden miehen Musters-osasto jota johtaa korpraali De Creux, totisen näköinen sotilas. Korpraalia ei usein näy matkustajien joukossa, mutta kun näkyy, ollaan yleensä kapteenin mielestä ylitetty tietty raja - varsinkaan kun korpraalin johtamilla joukoilla ei juurikaan löydy aatelisten käsittelyyn tarvittavaa herkkyyttä ja pelisilmää. Turvapäällikkö Sha-Hua on laivan turvallisuuden kasvot, korpraali De Creux miehineen on hihassa piilossa oleva lihas.
+
+Korpraalilla on vyöllään tainnutin, teleskooppipamppu ja melko ikävännäköinen pitkä veitsi. Miehistö kantaa teleskooppipamppuja ja yksinkertaisia miekkoja.
+
 **Tohtori Martin McCluck**
 
 <img src="/img/tohtori.jpg" alt="Tohtori" title="Tohtori" width="200" height="200" />
 
 Varustamo haluaa tarjota kunnianarvoisille matkustajille vain parasta, siksi aluksen mukana matkustaa aivan oikea tohtori, tohtori Martin McCluck. Hänellä on kaapissaan paljon pulloja, joissa on erivärisiä nesteitä sekä stetoskooppi.
+
+**Fellow Jonathan Sharp**
+
+<img src="/img/Engineer.jpg" alt="Sharp" title="Sharp" width="200" height="200" />
+
+Ikuisuuden tuulia huoltaa Jonathan Sharp, hieman epäsiisti ja *boheemi* engineers-killan edustaja. Sharp on selvästi kokenut ja hyvä siinä mitä tekee; ei ole helppo homma pitää satoja vuosia vanhaa avaruusalusta toimintakykyisenä, eikä varsinkaan edustuskelpoisena. Yleensä Sharpin löytää konehuoneesta, mutta satunnaisesti tämä joutuu asioimaan matkustajakansilla huoltamassa myös yksinkertaisempia laitteita kuten sviittien jacuzzeja ja niiden kiertovesijärjestelmää. Sharp tykkää soitella huuliharppua konehuoneessa ja huhutaan että hänellä on jossain viinapata porisemassa.
+
+**Pilotti Hoop Karlsson**
+
+<img src="/img/pilot.jpg" alt="Pilot" title="Pilot" width="200" height="200" />
+
+Hoop, sanotaan, lensi hävittäjiä perimyssodissa ja tykkää yhä pukeutua tyköistuvaan hyppypukuun. Outokumpu erottuu.
+
+**Hyttiemäntä Sharla**
+
+<img src="/img/maid.jpg" alt="Maid" title="Maid" width="200" height="200" />
+
+Ensimmäisessä luokassa teitä palvelee Sharla, selvästi Al-Malikien läänityksiltä kotoisin oleva tehokas, huomaamaton ja ennen kaikkea hyvin, hyvin tahdikas hyttiemäntä.
+
+**Muu miehistö**
+
+<img src="/img/miehisto.jpg" alt="Miehistö" title="Miehistö" width="200" height="200" />
+
+Miehistöä on laivalla yhteensä hieman kolmattakymmentä; on stuertteja jotka toimivat tarjoilijoina, siivoojina ja hyttiemäntinä, joitain teknisiä apukäsiä ja muutama kokki.
 
 **Shaprutin Siskot, esiintyvä ryhmä**
 
