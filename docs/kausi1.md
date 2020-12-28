@@ -213,6 +213,22 @@ Palkkasoturit harvemmin matkustavat luksusristeilijöillä, mutta kersantti Brow
 <img src="/img/bourgeois.jpg" alt="Porvarit" title="Porvarit" width="200" height="200" />
 
 Muu matkustajisto koostuu kauppiaista, virkamiehistä ja hyvin toimeentulevista kansalaisista. Valtaosa heistä matkustaa kolmannen luokan mukavissa, mutta pienehköissä hyteissä ja viettää siksi paljon aikaa ravintolan ja baarin alueella. Laivan teatteri on jokaisen esityksen aikaan täynnä, niiden ollessa ruokailujen lisäksi lähes ainoa asia joka rikkoo monotonisen päivärytmin.
+### Olen täällä vain Auttamassa, kaljuuna (nimi muutettu)
+
+Kaljuuna, eli nopea ja kevyesti aseistettu hyökkäysalus, suosittu paitsi aatelissukujen myös muiden avaruuden sapelinkalistelijoiden keskuudessa. Etenkin sellaisten, jotka tulevat ja lähtevät ilmalukosta, yleensä taskut täydempinä mennessä kuin tullessa. "Olen täällä vain auttamassa" on elämää nähnyt avaruusalus
+jolla on selvästi väliaikainen ja keksitty nimi.
+
+**Kapteeni Hawkins**
+
+<img src="/img/commander.jpg" alt="Hawkins" title="Hawkins" width="200" height="200" />
+
+Jämäkkä-ääninen, viittäkymmentä käyvä avaruuslaivan kapteeni, jolla ei ole kauheasti intoa asioihin jotka eivät käsittele elannon hankkimista epäasiallisin keinoin. Selvitäkseen viisikymppiseksi valitussa ammatissaan kapteenin täytyy yleensä olla tietynlainen ja kapteeni Hawkins on luultavasti juuri sellainen.
+
+**Iloiset avaruusrosvot**
+
+<img src="/img/troops.jpg" alt="Rosmot" title="Rosmot" width="200" height="200" />
+
+Korjaus: eivät järin iloisia, mutta rosvoja kuitenkin. Kapteeni Hawkinsin miehistö vetää välillä kevyet avaruuspuvut päälle, kaapista miekat, haulikot ja muut vähäisen läpäisykyvyn aseet, ja käyvät vapauttamassa erilaiset rahtialukset lasteistaan ja risteilyalusten matkustajat arvo-esineistään ja/tai hengestään.
 
 ### Risteilyohjelma
 
