@@ -230,7 +230,7 @@ Aika            | Tapahtuma
 17.30           | Päivällinen 1. kattaus (kolmosluokka)
 18.30           | Päivällinen 2. kattaus (muut luokat)
 
-Matka-ohjelma.
+Matka-ohjelma (muutettu)
 
 Aika            | Tapahtuma
 --------------- | ----------
@@ -238,18 +238,14 @@ Aika            | Tapahtuma
 1. Päivä 21.30  | Kapteenin tervehdys, tanssiesitys (teatteri)
 2. Päivä 14.00  | Vastaanotto, aateliset (ballroom)
 2. Päivä 21.30  | Liikkuvat kuvat (teatteri)
-3. Päivä 21.30  | Teatteriesitys (teatteri)
-4. Päivä 14.00  | Vastaanotto - naamiaiset, avoin kaikille(ballroom)
-5. Päivä 21.30  | Liikkuvat kuvat (teatteri)
-6. Päivä 14.00  | Asettuminen jonoon portille ja hyppy n. 19.00. Ajantasaus.
-7. Päivä 11.00  | Uutiset Criticorumista (teatteri)
-7. Päivä 21.30  | Lauluesitys (teatteri)
-8. Päivä 14.00  | Vastaanotto - aatelisille(ballroom)
-8. Päivä 21.30  | Liikkuvat kuvat (teatteri)
-9. Päivä 21.30  | Teatteriesitys (teatteri)
-10. Päivä 14.00 | Vastaanotto - avoin kaikille (ballroom)
-10. Päivä 21.30 | Tanssiesitys (teatteri)
-11. Päivä 11.30 | Telakoituminen Criticorumin kuuhun Ardelle-asemalle, josta jatkoyhteydet planeetalle ja muihin maailmoihin. *Ikuisuuden Tuulet* jatkaa kolmen päivän kuluttua matkaansa Gwynnethiin.
+3. Päivä 14.00  | Vastaanotto - naamiaiset, avoin kaikille(ballroom)
+4. Päivä 14.00  | Asettuminen jonoon portille ja hyppy n. 19.00. Ajantasaus.
+5. Päivä 11.00  | Uutiset Criticorumista (teatteri)
+5. Päivä 21.30  | Lauluesitys (teatteri)
+6. Päivä 21.30  | Teatteriesitys (teatteri)
+7. Päivä 14.00 | Vastaanotto - avoin kaikille (ballroom)
+7. Päivä 21.30 | Tanssiesitys (teatteri)
+8. Päivä 11.30 | Telakoituminen Criticorumin kuuhun Ardelle-asemalle, josta jatkoyhteydet planeetalle ja muihin maailmoihin. *Ikuisuuden Tuulet* jatkaa kolmen päivän kuluttua matkaansa Gwynnethiin.
 
 ### Ohjelmanumerot
 
