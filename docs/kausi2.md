@@ -28,4 +28,4 @@ taistelulentämisestä, mutta ei puhuta siitä silloin kun virkavalta on paikall
 
 <img src="/img/harya.jpg" alt="Harya" title="Harya" width="200" height="200" />
 
-Aluksen navigaattori, vastikään Gwynnethin kilta-akatemiasta valmistunut kokematon pilotinalku. Harya on valmis seikkailuun.
+Aluksen navigaattori, vastikään kilta-akatemiasta valmistunut kokematon pilotinalku. Harya on valmis seikkailuun.
