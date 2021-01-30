@@ -9,4 +9,5 @@ nav:
     - Kampanja: 'kampanja.md'
     - 'Kaudet':
         - 'Ensimmäinen kausi: ryöstö': 'kausi1'
+        - 'Toinen kausi: vieraita avaruudesta': 'kausi2'
 theme: material
