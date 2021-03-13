@@ -62,6 +62,8 @@ Rhojimarin valtiot ovat kaikki ruhtinaskuntia, vaikka käytännössä ne lienev�
 
 Kurakin suurherttuakunta on planeetan suurin ja teollistunein valtio, ja se kattaa valtaosan Kurakin mantereesta sekä jonkin verran Terracorpin mantereen länsirannikosta. Sekä mantereen että valtion nimi on johdettavissa yhdestä tasavallan aikaisen keskisuuren megakorporaation, Kurak Holdingsin nimestä. Kurak on iso valtio ja sitä on vaikea kuvata yksittäisillä tunnelmakuvilla, mutta keskeisimmät alueet voisi mieltä tuokiokuviksi jostain Itä-Euroopasta, jossa Vanhan Euroopan kaupungit kohtaavat modernimman betonibrutalismin. Samalla tapaa Kurak on jonkinlainen epäpyhä liitos alkavan teollistumisen ajan aatelistoa ja tehokkaalta näyttävää suunnitelmataloutta. Kurakin armeija on suuri, mutta hyvin neuvostomaisesti varusteltu; kun on ase, ei ole ammuksia, ja toisinpäin. Se on kuitenkin selvästi planeetan suurin sotilasmahti. Kurakia hallitsee arkkiherttua Reno van Kurak.
 
+**Arkkiherttua Reno van Kurak**
+
 <img src="/img/reno.jpg" alt="Reno" title="Reno" width="200" height="200" />
 
 ## Suramalian
