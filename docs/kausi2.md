@@ -60,13 +60,21 @@ Armonesen pääkaupunki.
 
 <img src="/img/ghazin.jpg" alt="Ghazin" title="Ghazin" width="400" height="400" />
 
-Rurin provinssin pieni pääkaupunki. Rur on valtava, hyvin harvaan asuttu alue Armonesen pohjois-osassa.
+Rurin provinssin pieni pääkaupunki. Rur on valtava, hyvin harvaan asuttu alue Armonesen pohjois-osassa. Provinssia hallitsee kreivi Charles Pulag.
+
+**Kreivi Charles Pulag**
+
+<img src="/img/charles.jpg" alt="Charles" title="Charles" width="200" height="200" />
 
 ### Barin
 
 <img src="/img/barin.jpg" alt="Barin" title="Barin" width="400" height="400" />
 
-Ghazinista lounaaseen sijaitseva kylä.
+Ghazinista lounaaseen sijaitseva kylä. Kylää johtaa Ghazinin sheriffin apulainen, vouti Margaret Schulz.
+
+**Vouti Margaret Schulz**
+
+<img src="/img/margaret.jpg" alt="Margaret" title="Margaret" width="200" height="200" />
 
 ### Grummarin maatila
 
@@ -92,4 +100,4 @@ Keskikokoinen maatila Barinin lähistöllä.
 
 **Boramin miehiä**
 
-<img src="/img/boramband.jpg" alt="Boramin miehet" title="Boramin miehet" width="200" height="200" />
+<img src="/img/boramband.jpg" alt="Boramin miehet" title="Boramin miehet" width="400" height="400" />
