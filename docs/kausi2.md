@@ -30,6 +30,12 @@ taistelulentämisestä, mutta ei puhuta siitä silloin kun virkavalta on paikall
 
 Aluksen navigaattori, vastikään kilta-akatemiasta valmistunut kokematon pilotinalku. Harya on valmis seikkailuun.
 
+**Pääinsinööri Zhu Al-Mashud**
+
+<img src="/img/zhu.jpg" alt="Zhu" title="Zhu" width="200" height="200" />
+
+Aluksen pääinsinööri Zhu Al-Mashud on taitava mekaanikko ja kova nainen pelaamaan uhkapelejä, sekä harrastuksena että työkseen - koska jostainhan niihin harrastuksiin pitää saada pääomaa.
+
 **Kersantti Harold Abbott**
 
 <img src="/img/abbott.jpg" alt="Abbott" title="Abbott" width="200" height="200" />
@@ -54,7 +60,9 @@ Rhojimarin valtiot ovat kaikki ruhtinaskuntia, vaikka käytännössä ne lienev�
 
 ## Kurak
 
-Kurakin suurherttuakunta on planeetan suurin ja teollistunein valtio, ja se kattaa valtaosan Kurakin mantereesta sekä jonkin verran Terracorpin mantereen länsirannikosta. Sekä mantereen että valtion nimi on johdettavissa yhdestä tasavallan aikaisen keskisuuren megakorporaation, Kurak Holdingsin nimestä. Kurak on iso valtio ja sitä on vaikea kuvata yksittäisillä tunnelmakuvilla, mutta keskeisimmät alueet voisi mieltä tuokiokuviksi jostain Itä-Euroopasta, jossa Vanhan Euroopan kaupungit kohtaavat modernimman betonibrutalismin. Samalla tapaa Kurak on jonkinlainen epäpyhä liitos alkavan teollistumisen ajan aatelistoa ja tehokkaalta näyttävää suunnitelmataloutta.
+Kurakin suurherttuakunta on planeetan suurin ja teollistunein valtio, ja se kattaa valtaosan Kurakin mantereesta sekä jonkin verran Terracorpin mantereen länsirannikosta. Sekä mantereen että valtion nimi on johdettavissa yhdestä tasavallan aikaisen keskisuuren megakorporaation, Kurak Holdingsin nimestä. Kurak on iso valtio ja sitä on vaikea kuvata yksittäisillä tunnelmakuvilla, mutta keskeisimmät alueet voisi mieltä tuokiokuviksi jostain Itä-Euroopasta, jossa Vanhan Euroopan kaupungit kohtaavat modernimman betonibrutalismin. Samalla tapaa Kurak on jonkinlainen epäpyhä liitos alkavan teollistumisen ajan aatelistoa ja tehokkaalta näyttävää suunnitelmataloutta. Kurakin armeija on suuri, mutta hyvin neuvostomaisesti varusteltu; kun on ase, ei ole ammuksia, ja toisinpäin. Se on kuitenkin selvästi planeetan suurin sotilasmahti. Kurakia hallitsee arkkiherttua Reno van Kurak.
+
+<img src="/img/reno.jpg" alt="Reno" title="Reno" width="200" height="200" />
 
 ## Suramalian
 
@@ -62,7 +70,7 @@ Suramalian ruhtikaskunta on pieni valtio Kurakin mantereen länsirannikolla, ja 
 
 ## Armonese
 
-Armonesen ruhtinaskunta sijaitsee Terracorpin mantereella, joka kuitenkin puhekielessä usein kääntyy niin ikään Armoneseksi. Mantereen alkuperäinen nimi on johdettavissa toisesta Rhojamariin sijoittaneesta megakorporaatiosta, Terracorpista, jonka myös käynnisti planeetan toisen maankaltaistamisen. Armonese on planeetan valtioista selvästi lähimpänä tasavallan aikaista ideaalia, sillä se on enimmäkseen eräänlaista harvaanasuttua rajaseutua, suurempien kaupunkien ja niiden välisen infrastuktuurin keskittyessä kaupunkien välimaastoon. 
+Armonesen ruhtinaskunta sijaitsee Terracorpin mantereella, joka kuitenkin puhekielessä usein kääntyy niin ikään Armoneseksi. Mantereen alkuperäinen nimi on johdettavissa toisesta Rhojamariin sijoittaneesta megakorporaatiosta, Terracorpista, jonka myös käynnisti planeetan toisen maankaltaistamisen. Armonese on planeetan valtioista selvästi lähimpänä tasavallan aikaan markkinoitua ideaalia, sillä se on enimmäkseen eräänlaista harvaanasuttua rajaseutua, rakennetun infrastruktuurin keskittyessä muutaman suurimman kaupungin välimaastoon.
 
 Rajaseudun voisi mieltää olevan tunnelmaltaan lähellä Yhdysvaltojen sisällisotaa seurannutta aikaa, kuitenkin sillä poikkeuksella että teknologian (varsinkin aseiden) osalta ollaa lähempänä mantereen asuttamisen alkuvaiheita. Pyssyjä on olemassa, mutta ne ovat paljon harvinaisempia, ja paikalliset militiat ja vastaavat suosivat vielä perinteisempiä aseita. Rajaseutujen harvoista kaupungeista löytyy höyrykäyttöisiä raitiovaunuja ja jopa joitain automobiileja. Suuremmat kaupungit ovat jonkinlainen sekoitus 1900-luvun pienempiä kaupunkeja eri aikakausilta niin, että yleensä kaupungit ovat rakentuneet tasavallan aikaisten rakennuskeskittymien ympärille. 50-70 -lukua muistuttavan matalan rakennuskannan välistä saattaa siis kurkistaa enemmän tai vähemmän hyvin säilynyt futuristinen lasipalatsi.
 
