@@ -1,6 +1,6 @@
 # Toinen kausi: Vieraita avaruudesta
 
-## Johdanto
+# Johdanto
 
 Urheat päähenkilömme ovat saaneet erilaisten enemmän ja vähemmän päivänvaloa kestävien tapahtumien jälkeen saaneet haltuunsa paitsi edesmenneen Paroni Percivalin hallussa olleen hyppyavaimen, myös "löytäjä saa pitää" -periaattella haltuun otetun aluksen joustavine pilottipalveluineen. He ovat tehneet mukaan sattuneen Lady Josephinen avustuksella yhteistyö- ja avunantosopimuksen Hawkwoodien suvun kanssa, ja luovuttaneet hyppyavaimen näiden haltuun. Vastineeksi tästä väliaikaisessa, mutta
 täysin hallinnassa olleessa likvideettipuutoksen tilassa olleet Moroderin veljekset - siis kunnioitetun Moroderin aatelissuvun vesat - ovat lunastaneet suvun tilukset Shaprutilla ja palauttaneet suvun kunnian (joka ei missään nimessä ole ollut kadoksissa, vaan hyvässä säilössä).
@@ -30,22 +30,66 @@ taistelulentämisestä, mutta ei puhuta siitä silloin kun virkavalta on paikall
 
 Aluksen navigaattori, vastikään kilta-akatemiasta valmistunut kokematon pilotinalku. Harya on valmis seikkailuun.
 
-## Rhojamar
+# Rhojamar
 
 Rhojamar on Diasporan vuosina löydetty elinkelpoinen planeetta, joka ei kuitenkaan ollut varsinaisesti ihmisasutukselle kelpaava. Diasporan vuosina planeetalle tehtiin joitain maankaltaistamista, jonka seurauksena planeetalla syntyi vakaa, ihmiselämälle kelvollinen mutta melko haastava ilmakehä, flora ja fauna. Toisen tasavallan aikana, maankaltaistamisteknologian kehityttyä suurin harppauksin, Rhojamariin asennettiin uudet maankaltaistamislaitteistot joiden avulla planeetalle saatiin hyvinkin maankaltainen ympäristö. Diasporan ja toisen tasavallan ensivuosina planeetan pysyvä asukasluku voitiin laskea korkeintaan kymmenissä tuhansissa, joka työskenteli pääsääntöisesti teollisuuden ja tutkimuksen parissa. Maankaltaistamisen toisen aallon alettua asukasluku nousi tasaisesti. Tasavallan romahtaminen ja sitä edeltäneet sekasorron vuosikymmenet sattuivat kuitenkin juuri Rhojamarin potentiaalisiin suuruuden päiviin, eikä planeetan väkiluku koskaan ehtinyt kehittymään lähellekään sellaisia lukemia kuin establisoituneemilla keskusplaneetoilla. Hyppyportin sulkeuduttua vuoden 4100 tienoilla Rhojamarista jäi tunnettuihin maailmoihin lähinnä hyvin lyhytaikainen muisto eräänlaisena unelmien rajaseutuna, millaisena planeettaan sijoittaneet yhtiöt olivat sitä markkinoineet.
 
 Rhojimarin valtiot ovat kaikki ruhtinaskuntia, vaikka käytännössä ne lienevät paljon lähempänä kuningas-, tai Kurakin tapauksessa keisarikuntia. Tämä on todennäköisesti jonkilainen jäänne ajasta jolloin keskeiset aatelissuvut hallitsivat ennen tasavallan aikaa useampia aurinkokuntia, ja yksittäiset planeetat tavattiin läänittää sukujen prinsseille, tai arkkiherttuoille ja herttuoille.
 
-### Kurak
+## Kurak
 
 Kurakin suurherttuakunta on planeetan suurin ja teollistunein valtio, ja se kattaa valtaosan Kurakin mantereesta sekä jonkin verran Terracorpin mantereen länsirannikosta. Sekä mantereen että valtion nimi on johdettavissa yhdestä tasavallan aikaisen keskisuuren megakorporaation, Kurak Holdingsin nimestä. Kurak on iso valtio ja sitä on vaikea kuvata yksittäisillä tunnelmakuvilla, mutta keskeisimmät alueet voisi mieltä tuokiokuviksi jostain Itä-Euroopasta, jossa Vanhan Euroopan kaupungit kohtaavat modernimman betonibrutalismin. Samalla tapaa Kurak on jonkinlainen epäpyhä liitos alkavan teollistumisen ajan aatelistoa ja tehokkaalta näyttävää suunnitelmataloutta.
 
-### Suramalian
+## Suramalian
 
 Suramalian ruhtikaskunta on pieni valtio Kurakin mantereen länsirannikolla, ja se kattaa tasavallan aikaisen avaruuskeskuksen ympäröivän alueen. Toisin kuin muut ruhtikaskunnat, Suramalian lienee saanut alkunsa avaruuskeskuksessa vaikuttaneiden pienempien yhtiöiden vaikutuksesta. Avaruuskeskuksen laaja alue on enimmäkseen raunoina ja ruhtinaskunnan aateliset asuvat asuvat pienissä kaupunkivaltioissaan, joten tunnelmaltaan Suramalian muistuttaa vähän jotain dystooppista keski-aikaa.
 
-### Armonese
+## Armonese
 
 Armonesen ruhtinaskunta sijaitsee Terracorpin mantereella, joka kuitenkin puhekielessä usein kääntyy niin ikään Armoneseksi. Mantereen alkuperäinen nimi on johdettavissa toisesta Rhojamariin sijoittaneesta megakorporaatiosta, Terracorpista, jonka myös käynnisti planeetan toisen maankaltaistamisen. Armonese on planeetan valtioista selvästi lähimpänä tasavallan aikaista ideaalia, sillä se on enimmäkseen eräänlaista harvaanasuttua rajaseutua, suurempien kaupunkien ja niiden välisen infrastuktuurin keskittyessä kaupunkien välimaastoon. 
 
 Rajaseudun voisi mieltää olevan tunnelmaltaan lähellä Yhdysvaltojen sisällisotaa seurannutta aikaa, kuitenkin sillä poikkeuksella että teknologian (varsinkin aseiden) osalta ollaa lähempänä mantereen asuttamisen alkuvaiheita. Pyssyjä on olemassa, mutta ne ovat paljon harvinaisempia, ja paikalliset militiat ja vastaavat suosivat vielä perinteisempiä aseita. Rajaseutujen harvoista kaupungeista löytyy höyrykäyttöisiä raitiovaunuja ja jopa joitain automobiileja. Suuremmat kaupungit ovat jonkinlainen sekoitus 1900-luvun pienempiä kaupunkeja eri aikakausilta niin, että yleensä kaupungit ovat rakentuneet tasavallan aikaisten rakennuskeskittymien ympärille. 50-70 -lukua muistuttavan matalan rakennuskannan välistä saattaa siis kurkistaa enemmän tai vähemmän hyvin säilynyt futuristinen lasipalatsi.
+
+### Kuzg
+
+<img src="/img/kuzg.jpg" alt="Kuzg" title="Kuzg" width="400" height="400" />
+
+Armonesen pääkaupunki.
+
+### Ghazin
+
+<img src="/img/ghazin.jpg" alt="Ghazin" title="Ghazin" width="400" height="400" />
+
+Rurin provinssin pieni pääkaupunki. Rur on valtava, hyvin harvaan asuttu alue Armonesen pohjois-osassa.
+
+### Barin
+
+<img src="/img/barin.jpg" alt="Barin" title="Barin" width="400" height="400" />
+
+Ghazinista lounaaseen sijaitseva kylä.
+
+### Grummarin maatila
+
+Keskikokoinen maatila Barinin lähistöllä.
+
+### Henkilöitä
+
+**Karl Grummar**
+
+<img src="/img/karl.jpg" alt="Karl" title="Karl" width="200" height="200" />
+
+**Ben Grummar**
+
+<img src="/img/ben.jpg" alt="Ben" title="Ben" width="200" height="200" />
+
+**Paroni Boram**
+
+<img src="/img/boram.jpg" alt="Boram" title="Boram" width="200" height="200" />
+
+**Micke, Boramin apulainen**
+
+<img src="/img/micke.jpg" alt="Micke" title="Micke" width="200" height="200" />
+
+**Boramin miehiä**
+
+<img src="/img/boramband.jpg" alt="Boramin miehet" title="Boramin miehet" width="200" height="200" />
