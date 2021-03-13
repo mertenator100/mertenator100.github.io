@@ -10,7 +10,7 @@
       
       
       <link rel="shortcut icon" href="../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.2.6">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-7.0.5">
     
     
       
@@ -18,10 +18,10 @@
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/main.cb6bc1d0.min.css">
+      <link rel="stylesheet" href="../assets/stylesheets/main.77f3fd56.min.css">
       
         
-        <link rel="stylesheet" href="../assets/stylesheets/palette.39b8e14a.min.css">
+        <link rel="stylesheet" href="../assets/stylesheets/palette.7fa14f5b.min.css">
         
       
     
@@ -31,7 +31,7 @@
         
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
-        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
       
     
     
@@ -70,24 +70,24 @@
       
 
 <header class="md-header" data-md-component="header">
-  <nav class="md-header-nav md-grid" aria-label="Header">
-    <a href=".." title="Fading Suns" class="md-header-nav__button md-logo" aria-label="Fading Suns">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Fading Suns" class="md-header__button md-logo" aria-label="Fading Suns">
       
   
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
 
     </a>
-    <label class="md-header-nav__button md-icon" for="__drawer">
+    <label class="md-header__button md-icon" for="__drawer">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
     </label>
-    <div class="md-header-nav__title" data-md-component="header-title">
-      <div class="md-header-nav__ellipsis">
-        <div class="md-header-nav__topic">
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
           <span class="md-ellipsis">
             Fading Suns
           </span>
         </div>
-        <div class="md-header-nav__topic">
+        <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
               Toinen kausi: Vieraita avaruudesta
@@ -96,9 +96,12 @@
         </div>
       </div>
     </div>
+    <div class="md-header__options">
+      
+    </div>
     
-      <label class="md-header-nav__button md-icon" for="__search">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
       </label>
       
 <div class="md-search" data-md-component="search" role="dialog">
@@ -107,10 +110,10 @@
     <form class="md-search__form" name="search">
       <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
       <label class="md-search__icon md-icon" for="__search">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
       </label>
-      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
       </button>
     </form>
@@ -141,7 +144,7 @@
           
             
               
-              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation" >
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
@@ -154,7 +157,7 @@
     <a href=".." title="Fading Suns" class="md-nav__button md-logo" aria-label="Fading Suns">
       
   
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
 
     </a>
     Fading Suns
@@ -188,19 +191,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
       
-      <label class="md-nav__link" for="nav-2">
+      <label class="md-nav__link" for="__nav_2">
         Maailma
         <span class="md-nav__icon md-icon"></span>
       </label>
       <nav class="md-nav" aria-label="Maailma" data-md-level="1">
-        <label class="md-nav__title" for="nav-2">
+        <label class="md-nav__title" for="__nav_2">
           <span class="md-nav__icon md-icon"></span>
           Maailma
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
-          
           
             
   
@@ -288,19 +290,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
       
-      <label class="md-nav__link" for="nav-6">
+      <label class="md-nav__link" for="__nav_6">
         Kaudet
         <span class="md-nav__icon md-icon"></span>
       </label>
       <nav class="md-nav" aria-label="Kaudet" data-md-level="1">
-        <label class="md-nav__title" for="nav-6">
+        <label class="md-nav__title" for="__nav_6">
           <span class="md-nav__icon md-icon"></span>
           Kaudet
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
-          
           
             
   
@@ -340,7 +341,7 @@
             
             
               
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc" >
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
@@ -350,54 +351,19 @@
     
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#johdanto" class="md-nav__link">
-    Johdanto
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#viela-uudelleen-nimeamaton-league-explorer-tyyppiluokan-alus" class="md-nav__link">
-    Vielä uudelleen nimeämätön League Explorer -tyyppiluokan alus
-  </a>
-  
-    <nav class="md-nav" aria-label="Vielä uudelleen nimeämätön League Explorer -tyyppiluokan alus">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#miehisto" class="md-nav__link">
-    Miehistö
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
               </div>
             
           
-          <div class="md-content">
+          <div class="md-content" data-md-component="content">
             <article class="md-content__inner md-typeset">
               
                 
                 
                 <h1 id="toinen-kausi-vieraita-avaruudesta">Toinen kausi: Vieraita avaruudesta</h1>
-<h2 id="johdanto">Johdanto</h2>
+<h1 id="johdanto">Johdanto</h1>
 <p>Urheat päähenkilömme ovat saaneet erilaisten enemmän ja vähemmän päivänvaloa kestävien tapahtumien jälkeen saaneet haltuunsa paitsi edesmenneen Paroni Percivalin hallussa olleen hyppyavaimen, myös "löytäjä saa pitää" -periaattella haltuun otetun aluksen joustavine pilottipalveluineen. He ovat tehneet mukaan sattuneen Lady Josephinen avustuksella yhteistyö- ja avunantosopimuksen Hawkwoodien suvun kanssa, ja luovuttaneet hyppyavaimen näiden haltuun. Vastineeksi tästä väliaikaisessa, mutta
 täysin hallinnassa olleessa likvideettipuutoksen tilassa olleet Moroderin veljekset - siis kunnioitetun Moroderin aatelissuvun vesat - ovat lunastaneet suvun tilukset Shaprutilla ja palauttaneet suvun kunnian (joka ei missään nimessä ole ollut kadoksissa, vaan hyvässä säilössä).</p>
 <p>Onnenkantamoiset eivät päättyneet tähän: veljesten ja miekkamestari Stoken uskomattomien neuvottelutaitojen ansiosta ryhmä aluksineen on saanut kunnian avustaa Hawkwoodien sukua hyppyavaimen salaisuuksien selvittämisessä. Hawkwoodien valistunut arvaus on, että avaimella voitaisiin avata jokin vuosisatoja suljettuna ollut 
@@ -415,6 +381,38 @@ taistelulentämisestä, mutta ei puhuta siitä silloin kun virkavalta on paikall
 <p><strong>Aliluutnantti Harya Maschadan</strong></p>
 <p><img src="/img/harya.jpg" alt="Harya" title="Harya" width="200" height="200" /></p>
 <p>Aluksen navigaattori, vastikään kilta-akatemiasta valmistunut kokematon pilotinalku. Harya on valmis seikkailuun.</p>
+<h1 id="rhojamar">Rhojamar</h1>
+<p>Rhojamar on Diasporan vuosina löydetty elinkelpoinen planeetta, joka ei kuitenkaan ollut varsinaisesti ihmisasutukselle kelpaava. Diasporan vuosina planeetalle tehtiin joitain maankaltaistamista, jonka seurauksena planeetalla syntyi vakaa, ihmiselämälle kelvollinen mutta melko haastava ilmakehä, flora ja fauna. Toisen tasavallan aikana, maankaltaistamisteknologian kehityttyä suurin harppauksin, Rhojamariin asennettiin uudet maankaltaistamislaitteistot joiden avulla planeetalle saatiin hyvinkin maankaltainen ympäristö. Diasporan ja toisen tasavallan ensivuosina planeetan pysyvä asukasluku voitiin laskea korkeintaan kymmenissä tuhansissa, joka työskenteli pääsääntöisesti teollisuuden ja tutkimuksen parissa. Maankaltaistamisen toisen aallon alettua asukasluku nousi tasaisesti. Tasavallan romahtaminen ja sitä edeltäneet sekasorron vuosikymmenet sattuivat kuitenkin juuri Rhojamarin potentiaalisiin suuruuden päiviin, eikä planeetan väkiluku koskaan ehtinyt kehittymään lähellekään sellaisia lukemia kuin establisoituneemilla keskusplaneetoilla. Hyppyportin sulkeuduttua vuoden 4100 tienoilla Rhojamarista jäi tunnettuihin maailmoihin lähinnä hyvin lyhytaikainen muisto eräänlaisena unelmien rajaseutuna, millaisena planeettaan sijoittaneet yhtiöt olivat sitä markkinoineet.</p>
+<p>Rhojimarin valtiot ovat kaikki ruhtinaskuntia, vaikka käytännössä ne lienevät paljon lähempänä kuningas-, tai Kurakin tapauksessa keisarikuntia. Tämä on todennäköisesti jonkilainen jäänne ajasta jolloin keskeiset aatelissuvut hallitsivat ennen tasavallan aikaa useampia aurinkokuntia, ja yksittäiset planeetat tavattiin läänittää sukujen prinsseille, tai arkkiherttuoille ja herttuoille.</p>
+<h2 id="kurak">Kurak</h2>
+<p>Kurakin suurherttuakunta on planeetan suurin ja teollistunein valtio, ja se kattaa valtaosan Kurakin mantereesta sekä jonkin verran Terracorpin mantereen länsirannikosta. Sekä mantereen että valtion nimi on johdettavissa yhdestä tasavallan aikaisen keskisuuren megakorporaation, Kurak Holdingsin nimestä. Kurak on iso valtio ja sitä on vaikea kuvata yksittäisillä tunnelmakuvilla, mutta keskeisimmät alueet voisi mieltä tuokiokuviksi jostain Itä-Euroopasta, jossa Vanhan Euroopan kaupungit kohtaavat modernimman betonibrutalismin. Samalla tapaa Kurak on jonkinlainen epäpyhä liitos alkavan teollistumisen ajan aatelistoa ja tehokkaalta näyttävää suunnitelmataloutta.</p>
+<h2 id="suramalian">Suramalian</h2>
+<p>Suramalian ruhtikaskunta on pieni valtio Kurakin mantereen länsirannikolla, ja se kattaa tasavallan aikaisen avaruuskeskuksen ympäröivän alueen. Toisin kuin muut ruhtikaskunnat, Suramalian lienee saanut alkunsa avaruuskeskuksessa vaikuttaneiden pienempien yhtiöiden vaikutuksesta. Avaruuskeskuksen laaja alue on enimmäkseen raunoina ja ruhtinaskunnan aateliset asuvat asuvat pienissä kaupunkivaltioissaan, joten tunnelmaltaan Suramalian muistuttaa vähän jotain dystooppista keski-aikaa.</p>
+<h2 id="armonese">Armonese</h2>
+<p>Armonesen ruhtinaskunta sijaitsee Terracorpin mantereella, joka kuitenkin puhekielessä usein kääntyy niin ikään Armoneseksi. Mantereen alkuperäinen nimi on johdettavissa toisesta Rhojamariin sijoittaneesta megakorporaatiosta, Terracorpista, jonka myös käynnisti planeetan toisen maankaltaistamisen. Armonese on planeetan valtioista selvästi lähimpänä tasavallan aikaista ideaalia, sillä se on enimmäkseen eräänlaista harvaanasuttua rajaseutua, suurempien kaupunkien ja niiden välisen infrastuktuurin keskittyessä kaupunkien välimaastoon. </p>
+<p>Rajaseudun voisi mieltää olevan tunnelmaltaan lähellä Yhdysvaltojen sisällisotaa seurannutta aikaa, kuitenkin sillä poikkeuksella että teknologian (varsinkin aseiden) osalta ollaa lähempänä mantereen asuttamisen alkuvaiheita. Pyssyjä on olemassa, mutta ne ovat paljon harvinaisempia, ja paikalliset militiat ja vastaavat suosivat vielä perinteisempiä aseita. Rajaseutujen harvoista kaupungeista löytyy höyrykäyttöisiä raitiovaunuja ja jopa joitain automobiileja. Suuremmat kaupungit ovat jonkinlainen sekoitus 1900-luvun pienempiä kaupunkeja eri aikakausilta niin, että yleensä kaupungit ovat rakentuneet tasavallan aikaisten rakennuskeskittymien ympärille. 50-70 -lukua muistuttavan matalan rakennuskannan välistä saattaa siis kurkistaa enemmän tai vähemmän hyvin säilynyt futuristinen lasipalatsi.</p>
+<h3 id="kuzg">Kuzg</h3>
+<p><img src="/img/kuzg.jpg" alt="Kuzg" title="Kuzg" width="400" height="400" /></p>
+<p>Armonesen pääkaupunki.</p>
+<h3 id="ghazin">Ghazin</h3>
+<p><img src="/img/ghazin.jpg" alt="Ghazin" title="Ghazin" width="400" height="400" /></p>
+<p>Rurin provinssin pieni pääkaupunki. Rur on valtava, hyvin harvaan asuttu alue Armonesen pohjois-osassa.</p>
+<h3 id="barin">Barin</h3>
+<p><img src="/img/barin.jpg" alt="Barin" title="Barin" width="400" height="400" /></p>
+<p>Ghazinista lounaaseen sijaitseva kylä.</p>
+<h3 id="grummarin-maatila">Grummarin maatila</h3>
+<p>Keskikokoinen maatila Barinin lähistöllä.</p>
+<h3 id="henkiloita">Henkilöitä</h3>
+<p><strong>Karl Grummar</strong></p>
+<p><img src="/img/karl.jpg" alt="Karl" title="Karl" width="200" height="200" /></p>
+<p><strong>Ben Grummar</strong></p>
+<p><img src="/img/ben.jpg" alt="Ben" title="Ben" width="200" height="200" /></p>
+<p><strong>Paroni Boram</strong></p>
+<p><img src="/img/boram.jpg" alt="Boram" title="Boram" width="200" height="200" /></p>
+<p><strong>Micke, Boramin apulainen</strong></p>
+<p><img src="/img/micke.jpg" alt="Micke" title="Micke" width="200" height="200" /></p>
+<p><strong>Boramin miehiä</strong></p>
+<p><img src="/img/boramband.jpg" alt="Boramin miehet" title="Boramin miehet" width="200" height="200" /></p>
                 
               
               
@@ -438,6 +436,7 @@ taistelulentämisestä, mutta ei puhuta siitä silloin kun virkavalta on paikall
         <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
           Material for MkDocs
         </a>
+        
       </div>
       
     </div>
@@ -445,19 +444,13 @@ taistelulentämisestä, mutta ei puhuta siitä silloin kun virkavalta on paikall
 </footer>
       
     </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "..", "features": [], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "../assets/javascripts/workers/search.fb4a9340.min.js", "version": null}</script>
     
-      <script src="../assets/javascripts/vendor.53cc9318.min.js"></script>
-      <script src="../assets/javascripts/bundle.e9c9f54f.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}</script>
-      
-      <script>
-        app = initialize({
-          base: "..",
-          features: [],
-          search: Object.assign({
-            worker: "../assets/javascripts/worker/search.9c0e82ba.min.js"
-          }, typeof search !== "undefined" && search)
-        })
-      </script>
+    
+      <script src="../assets/javascripts/bundle.5cf3e710.min.js"></script>
       
     
   </body>
