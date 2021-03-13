@@ -30,6 +30,14 @@ taistelulentämisestä, mutta ei puhuta siitä silloin kun virkavalta on paikall
 
 Aluksen navigaattori, vastikään kilta-akatemiasta valmistunut kokematon pilotinalku. Harya on valmis seikkailuun.
 
+# Terracorp
+
+Terracorp oli Diasporan aikaan perustettu monialayritys. Yrityksen perustajaksi on nimetty kreivi Jaques Koch-Pinault, ja yrityksen nimen katsotaan liittyneen Koch-Pinaultin suvun juuriin eräänä vanhan maan mahtisukuna. Terracorp investoi aikanaan runsaasti maankaltaistamisteknologiaan, maanviljelykseen sekä tavarankuljetukseen ja sitä pidettiin aggressiivisena riskisijoittajana, jonka kohteena olivat etenkin potentiaalisiksi maankaltaistamisen kohteiksi luetut uudet maailmat. Terracorp investoi isosti Rhojamarin maailman maankaltaistamiseen ja markkinoi planeettaa valtavana saavutuksenaan, siirtäen sinne myös omien yksiköidensä toimintoja. Toisen tasavallan luhistuminen, sitä seurannut sekasorto ja lukuisten hyppyporttien - muun muassa Rhojamarin - sulkeutuminen ajoi Terracorpin lopulta konkurssiin.
+
+# Kurak Holdings
+
+Rhojammariin investoi myös toinen suuri monialayritys, Kurak Holdings, jonka keskeistä liiketoimintaa oli etenkin valmistava teollisuus ja pinta-alusten rakennus. Kurak oli huomattavasti Terracorpia pienempi yritys, mutta myös tunnettu joskus holtittomaksikin kutsutusta riskisijoittamisesta ja hyvin aggressiivisesta strategiastaan.
+
 # Rhojamar
 
 Rhojamar on Diasporan vuosina löydetty elinkelpoinen planeetta, joka ei kuitenkaan ollut varsinaisesti ihmisasutukselle kelpaava. Diasporan vuosina planeetalle tehtiin joitain maankaltaistamista, jonka seurauksena planeetalla syntyi vakaa, ihmiselämälle kelvollinen mutta melko haastava ilmakehä, flora ja fauna. Toisen tasavallan aikana, maankaltaistamisteknologian kehityttyä suurin harppauksin, Rhojamariin asennettiin uudet maankaltaistamislaitteistot joiden avulla planeetalle saatiin hyvinkin maankaltainen ympäristö. Diasporan ja toisen tasavallan ensivuosina planeetan pysyvä asukasluku voitiin laskea korkeintaan kymmenissä tuhansissa, joka työskenteli pääsääntöisesti teollisuuden ja tutkimuksen parissa. Maankaltaistamisen toisen aallon alettua asukasluku nousi tasaisesti. Tasavallan romahtaminen ja sitä edeltäneet sekasorron vuosikymmenet sattuivat kuitenkin juuri Rhojamarin potentiaalisiin suuruuden päiviin, eikä planeetan väkiluku koskaan ehtinyt kehittymään lähellekään sellaisia lukemia kuin establisoituneemilla keskusplaneetoilla. Hyppyportin sulkeuduttua vuoden 4100 tienoilla Rhojamarista jäi tunnettuihin maailmoihin lähinnä hyvin lyhytaikainen muisto eräänlaisena unelmien rajaseutuna, millaisena planeettaan sijoittaneet yhtiöt olivat sitä markkinoineet.
