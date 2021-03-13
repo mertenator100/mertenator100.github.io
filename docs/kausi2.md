@@ -30,6 +30,12 @@ taistelulentämisestä, mutta ei puhuta siitä silloin kun virkavalta on paikall
 
 Aluksen navigaattori, vastikään kilta-akatemiasta valmistunut kokematon pilotinalku. Harya on valmis seikkailuun.
 
+**Kersantti Harold Abbott**
+
+<img src="/img/abbott.jpg" alt="Abbott" title="Abbott" width="200" height="200" />
+
+Kersantti Abbott, entinen Moshalan seitsemännen rykmentin ryhmänjohtaja, teki pitkällä sotilasurallaan vain yhden virheen - noudatti myöhemmin tappiolle jääneen komentajan käskyjä. Tehtävistään vapautettu kersantti on kuitenkin löytänyt uuden työnantajan ja johtaa pientä viiden hengen turva-osastoa.
+
 # Terracorp
 
 Terracorp oli Diasporan aikaan perustettu monialayritys. Yrityksen perustajaksi on nimetty kreivi Jaques Koch-Pinault, ja yrityksen nimen katsotaan liittyneen Koch-Pinaultin suvun juuriin eräänä vanhan maan mahtisukuna. Terracorp investoi aikanaan runsaasti maankaltaistamisteknologiaan, maanviljelykseen sekä tavarankuljetukseen ja sitä pidettiin aggressiivisena riskisijoittajana, jonka kohteena olivat etenkin potentiaalisiksi maankaltaistamisen kohteiksi luetut uudet maailmat. Terracorp investoi isosti Rhojamarin maailman maankaltaistamiseen ja markkinoi planeettaa valtavana saavutuksenaan, siirtäen sinne myös omien yksiköidensä toimintoja. Toisen tasavallan luhistuminen, sitä seurannut sekasorto ja lukuisten hyppyporttien - muun muassa Rhojamarin - sulkeutuminen ajoi Terracorpin lopulta konkurssiin.
@@ -72,7 +78,7 @@ Rurin provinssin pieni pääkaupunki. Rur on valtava, hyvin harvaan asuttu alue 
 
 **Kreivi Charles Pulag**
 
-<img src="/img/charles.jpg" alt="Charles" title="Charles" width="200" height="200" />
+<img src="/img/charles.jpg" alt="Charles" title="Charles" width="400" height="400" />
 
 ### Barin
 
@@ -85,6 +91,8 @@ Ghazinista lounaaseen sijaitseva kylä. Kylää johtaa Ghazinin sheriffin apulai
 <img src="/img/margaret.jpg" alt="Margaret" title="Margaret" width="200" height="200" />
 
 ### Grummarin maatila
+
+<img src="/img/homestead.jpg" alt="Maatila" title="Maatila" width="200" height="200" />
 
 Keskikokoinen maatila Barinin lähistöllä.
 
