@@ -104,7 +104,7 @@ Ghazinista lounaaseen sijaitseva kylä. Kylää johtaa Ghazinin sheriffin apulai
 
 ### Grummarin maatila
 
-<img src="/img/homestead.jpg" alt="Maatila" title="Maatila" width="200" height="200" />
+<img src="/img/homestead.jpg" alt="Maatila" title="Maatila" width="400" height="400" />
 
 Keskikokoinen maatila Barinin lähistöllä.
 
