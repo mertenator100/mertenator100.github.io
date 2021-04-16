@@ -25,3 +25,7 @@ Barinin vouti Margaret Schulz vetoaa paikallisiin että nämä majoittaisivat va
 ## Kaupallisia tiedotteita
 
 ## Lukijoilta
+
+### Näin kaksipäisen hirviön
+
+"Näin kaksipäisen seiväsliskoa muistuttavan olennon", vakuuttaa etelä-rurilainen metsästäjä Jonas Weistwaf. 

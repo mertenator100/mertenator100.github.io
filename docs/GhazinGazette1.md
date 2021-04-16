@@ -15,13 +15,17 @@ Minähän toki olen vain vaivainen paikallislehden päätoimittaja, mutta voitte
 
 Valtatie 3 väillä Gribrul-Gocrad suljettiin paikallisviranomaisten toimesta tien sorruttua kolmesta kohtaa Tethrin-joen alueella toista kuukautta jatkuneiden rankkasateiden voimasta. Erityisen hankalaan asemaan tien sulkeminen asettaa toisen rannikkorykmentin, joka on nyt täysin Vrurin jokireittiä pitkin kulkevan huoltotien varassa. "On selvää että tällainen asettaa aikamoisia rajoituksia varsikin rajapartiotoiminnalle, ja joudumme lisäksi kiinnittämään merkittävän osan voimista sateista eniten kärsineen Bheghin kaupungin evakuoinnin avustamiseen", kertoi komentopaikaltaan tavoitettu everstiluutnantti Malkutin, rannikkorykmentin johtaja. "Kurakilaisten nähty keskittävän joukkojaan Gughin alueelle, joten lienee vain ajan kysymys milloin sieltä tarjotaan apua tilanteen johdosta. Ja Kurakin apua tapaa olla sellaista josta kieltäytyminen on hyvin vaikeaa."
 
+### Noburyn alajuoksulle matkannut retkikunta kadonnut?
+
+Noburyn alajuoksulle syksyllä 906 matkannut retkikunta on julistettu kadonneeksi ja sen epäillään eksyneen talvimyrskyissä. Viime talvena itärannikkoa riepotelleet myrskyt ovat vielä Ghazinin asukkaiden hyvässä muistissa, eikä lordiluutnantti van Mankhoff pidä kovin todennäköisenä että retkikuntaa tullaan enää löytämään elossa. "Kaikella kunnioituksella mahdollisesti edesmenneille", lordiluutnantti toteaa, "mutta pidin jo heidän lähtiessään yritystä hullun hommana - ymmärrän kyllä että asuttamisen alkuaikoina käytössä olleet rakennelmat ovat historialliselta kannalta kiinnostavia, mutta tiedossa oli että alue oli muuttunut jo kesällä epävakaiseksi kalastajien paetessa Noburyn yläjuoksulle."
+
 ## Paikallisuutisia 
 
 Sää - sattumankauppaa?
 
 Kuzgin yliopiston professori luonnontieteiden professori Francis Leyeth pitää kiistattomana sitä, että ruhtinaskunnan eteläisiä alueita piinaavat sääilmiöt eivät ole täysin luonnollista alkuperää. "Onhan se aivan selvää että tällaiset hyvin sattumanvaraiset ääri-ilmiöt eivät voi tuosta vain syntyä. Kun puhutaan säätilasta, puhutaan kuitenkin massiivisesta järjestelmästä jossa kaikki vaikuttaa kaikkeen, ja mikäli koko maailma olisi siirtymässä jonkinlaiseen kokonaan toisenlaiseen... Vaiheseen, olisivat ääri-ilmiöt huomattavasti paremmin ennustettavissa." Lisäksi niitä esiintyisi muuallakin kuin vain Terracorpin mantereella, otaksuu professori Leyeth. "Uskoisin että näiden ilmiöiden taustalla on jokin esi-isiemme vaikenema salaisuus, jokin laite joka on mahdollisesti mennyt epäkuntoon. Olen lähettänyt lukuisia kirjeitä korkeimmalle teknogiselle killalle Gomroldeen, ja sieltä on luvattu lähettää asiantuntija-apua, mutta eihän tässä ole kesän jälkeen liikkunut edes kuriiriposti meren yli."
 
-##Kaupallisia tiedotteita
+## Kaupallisia tiedotteita
 
 ### Ghazinin konepajan syytarjoukset
 
