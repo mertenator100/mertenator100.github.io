@@ -4,6 +4,10 @@ nav:
     - 'Maailma':    
         - 'Yleiskuvaus': 'maailma.md'
         - 'Tunnetut planeetat': 'planeetat.md'
+    - 'Rhojamar':
+        - 'Gazinin Aapinen': 'GhazinAapinen.md'
+        - 'Ghazin Gazette 1': 'GhazinGazette1.md'
+        - 'Ghazin Gazette 2': 'GhazinGazette2.md'
     - Säännöt: 'saannot.md'
     - Hahmonluonti: 'hahmot.md'
     - Kampanja: 'kampanja.md'
