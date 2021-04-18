@@ -27,8 +27,16 @@ Kuzgin yliopiston professori luonnontieteiden professori Francis Leyeth pitää 
 
 ## Kaupallisia tiedotteita
 
-### Ghazinin konepajan syytarjoukset
+### Ghazinin konepajan syystarjoukset
 
 - Vetoaurat nyt talvihintaan - osta vaikka koko kylälle kaksi odottamaan kevätkylvöjä.
 - Maakoneiden huoltoaika on nyt. Yksinkertaisten mekaanisten huoltojen hinnasta vartti pois!
 - Tuo laitteet huoltoon vasta keväällä: varaosien saatavuus on ollut heikkoa, joten suosittelemme lykkäämään muut kuin välttämättömät korjaukset yli talven. 
+
+## Muuta
+
+- "Kodinturvajoukkoja kerätään." Vapaaehtoisesta asepalveluksesta kiinnostuneet voivat ilmoittautua lordivoudin toimistolla Ghazinissa.
+
+- "Vesi nousi ja hyökyi yli aallonmurtajan sekunneissa." Kalastajien kauhunhetket näiden paettua Kirketonin satamasta sisämaahan.
+
+- "Herttuatar Selenan kosijat." Eivät välttämättä maan kuumimpia poikamiehiä, mutta todennäköisesti varakkaimpia.

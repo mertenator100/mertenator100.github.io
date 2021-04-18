@@ -24,8 +24,18 @@ Barinin vouti Margaret Schulz vetoaa paikallisiin että nämä majoittaisivat va
 
 ## Kaupallisia tiedotteita
 
-## Lukijoilta
+### Ghazinin konepajan kevätmarkkinat
 
-### Näin kaksipäisen hirviön
+- Korjaamoarpajaiset! Voita korjaamoaika varaosatakuulla maatalouskoneellesi. Vain yksi osallistuminen per talous, voittoja jaossa viisi kappaletta.
+- Paikalla seppä kengittämässä hevosia. Vielä on aikaa tehdä kevätkylvöjä.
+- Suosittua romutoria ei tänä keväänä järjestetä
 
-"Näin kaksipäisen seiväsliskoa muistuttavan olennon", vakuuttaa etelä-rurilainen metsästäjä Jonas Weistwaf. 
+## Muuta
+
+- "Näin kaksipäisen seiväsliskoa muistuttavan olennon", vakuuttaa etelä-rurilainen metsästäjä Jonas Weistwaf. 
+¨
+- "Etsitään vähäpuheista ja työteliästä miestä", yst. vast. toimitukseen nimimerkille "lomittaja".
+
+- "Oletteko nähneet tätä perhettä?" Sukulaiset kaipaavat havaintoja Rurin itärajalle Klastin kylän alueella asuneesta perheestä.
+
+- "Onko syysvauvaa luvassa?" Uusimmat juorut ja huhut pääkaupungista.
