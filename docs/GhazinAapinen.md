@@ -79,3 +79,7 @@ _Teknomaagit_ ovat vanhan maailman tietäjiä, koneenkäyttäjiä ja muinaisen t
 ## U
 
 ## V
+
+
+
+<img src="/img/Rhojamar.jpg" alt="Armonese" title="Armonese" />
