@@ -54,7 +54,7 @@ Faktalaatikko: Avaruusaika. Tiesitkö että me emme ole tämän maan alkuperäis
 
 Vähäluminen ja poikkeuksellisen lämmin talvi mahdollistaa kevätkylvöjen aloittamisen jo Huhtikuussa. Sademäärän ennustetaan jäävän tavanomaista pienemmäksi, joten vedet ovat matalalla heti keväästä alkaen, mutta kasteluun on silti syytä panostaa.
 
-Boramin alueella raportoidaan tuulen nopeuksien kiihtyneen, ja sademäärät ovat suuria. Aivan pohjoisimmassa Rurissa tilanne voi siis poiketa ennustetusta.
+Boramin alueella raportoidaan tuulen nopeuksien kiihtyneen, ja sademäärät ovat suuria. Aivan pohjoisimmassa Rurissa tilanne voi siis poiketa ennustetusta. Kirketonin alajuoksulle on tarkoitus lähettää retkikunta heti alkukeväästä kartoittamaan merelle pääsyä ja perustamaan rannikolle tukikohta kalastajia varten. Tukikohdasta pyritään myös varustamaan erillisretkikunta Noburyn alajuoksulle.
 
 ## Luoteis-Rur
 
@@ -62,8 +62,10 @@ Kirotun maan puolella yltyneiden tuulten ja sateiden ennustetaan tuovan lisää 
 
 ## Itä-Rur
 
-Idässä kuivuus tulee vaivaamaan samalla tavalla kuin Ghazinin alueella, paikoitellen jopa pahemmin. Myös jokien vesi on matalalla, joten kalastusta harjoittavien tulee olla erityisen tarkkana - Kirotun maan alueilla pikatulvat ovat hyvin todennäköisiä, joten leiriytymistarpeita on syytä kuljettaa mukana.
+Idässä kuivuus tulee vaivaamaan samalla tavalla kuin Ghazinin alueella, paikoitellen jopa pahemmin. Myös jokien vesi on matalalla, joten kalastusta harjoittavien tulee olla erityisen tarkkana - Kirotun maan alueilla pikatulvat ovat hyvin todennäköisiä, joten leiriytymistarpeita on syytä kuljettaa mukana. Suunnitelmissa on lähettää retkikunta Chawboverken yläjuoksulta kohti rajan väärälle puolelle jäänyttä Klastin kyläkeskusta, ja mahdollisesti siitä eteenpäin ainakin Winton-joen haaraumaan.
 
 ## Etelä-Rur
 
 Etelässä kuumuus ja kosteus tulevat olemaan vielä tavallistakin vuotta hallitsevampia. Etelärannikon viidakoiden tuottama kosteus vaikuttaa laajalti.
+
+Edellisvuonna raportoitu Kirotun maan työntyminen pohjoiseen tuntuu tauonneen ja menetykset keskittyivät lähinnä Gathamber-joen varrella sijainneisiin yhteisöihin, jotka jouduttiin talven aikana evakuoimaan. Evakuoidut asukkaat raportoivat äärimmäisten sääolosuhteiden kuten pätsimäisiin lukemiin kohonneiden päivälämpötilojen lisäksi nähneensä saaliseläimiä, jotka näyttivät olevan läheistä sukua raptoreille, mutt huomattavasti suurempia.
