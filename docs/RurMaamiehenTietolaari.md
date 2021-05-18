@@ -16,11 +16,17 @@ Faktalaatikko: Avaruusaika. Tiesitkö että me emme ole tämän maan alkuperäis
 
 *Huhtikuu*
 
+Sipulikasvien kylvökausi alkaa yleensä alkukuusta, kun yöpakkaset väistyvät. Etelässä päästään kylvämään joskus jo Maaliskuussa, mutta pohjoisemmassa Rurissa yleensä vasta loppupuolella Huhtikuuta.
+
 ## Kevät
 
 *Kevätkuu*
 
+Koisokasvien kylvöaika. Ensimmäiset perunat saa peltoon jo kuunvaihteessa.
+
 *Toukokuu*
+
+Myöhäisperunoiden ja muiden lämpöä vaativien koisokasvien kylvöaika.
 
 ## Kesä
 
@@ -30,11 +36,15 @@ Faktalaatikko: Avaruusaika. Tiesitkö että me emme ole tämän maan alkuperäis
 
 *Heinäkuu*
 
+Ensimmäinen satokausi alkaa.
+
 *Elokuu*
 
 ## Syksy
 
 *Satokuu*
+
+Toinen satokausi alkaa. Sadonkorjuulomat.
 
 *Syyskuu*
 
@@ -46,7 +56,15 @@ Faktalaatikko: Avaruusaika. Tiesitkö että me emme ole tämän maan alkuperäis
 
 *Joulukuu*
 
-*Talvukuu*
+*Talvikuu*
+
+# Metsästäjän kaveri
+
+Rhuuman ajo kannattaa tehdä heti satokauden päätteeksi sato-syyskuussa, kun varsat ovat tarpeeksi isoja ja kiima-aika on alkanut. Lauman saa yleensä parhaiten ajoon vetiseltä maalta ja ajoketju kannattaa järjestää huutoetäisyydellä, leveänä nauhana. Varustuksesta riippuen ajo tehdään kohti ruuti- tai jousiaseilla varustettuja passimiehiä, tai kohti kuivemmalle maalle kaivettuja ansakuoppia.
+
+Raptorit viihtyvät yleensä kuivemmalla maalla, mutta ovat reviiritietoisia eivätkä yleensä lähde liian pitkälle juomapaikoistaan, joten ajossa niitä välttää parhaiten ajamalla laumoja poispäin joista ja järvistä. Liian kauas autiolle ei kuitenkaan kannata lähteä, sillä erämaassa voi törmätä seiväsliskoon - niiden liikkeet kuulee yleensä kaukaa, mutta pitkäjalkaisena seiväslisko liikkuu kokoonsa nähden yllättävän nopeasti, joten jos näkee puunlatvojen heiluvan vastatuuleen, kannattaa tehdä jo lähtöä. Jos kuulee seiväsliskon, kannattaa yrittää kiivetä puuhun ja toivoa parasta - liskot ovat hyvin aggressiivisia mailleen eksyneitä kohtaan.
+
+Pemaneista, sitä vastoin, ei yleensä ole ihmisille vaaraa. Paitsi jos ihminen on huonossa kunnossa ja/tai yksin.
 
 # Ennusteet vuodelle 915
 
