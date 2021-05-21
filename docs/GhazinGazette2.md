@@ -8,9 +8,9 @@ Kauppasaarron kaksi vuosikymmentä
 
 ### Vrur on linnake, joka ei murru
 
-Toisen rannikkorykmentin komentaja, eversti Joanna Simmons, tunnetaan tiukkana mutta reiluna komentajana. Saatatte muistaa hänet hänen Gocradin taistelun sankarina, kuuluisan mustan komppanian "naispaholaisena", joka pidätteli joukkojensa kanssa kokonaista kahta rykmenttia Kurakilaisia Gocradin tiellä turvaten muun rykmentin Tetrinh-joen ylityksen. "Siitä nyt jo kymmenen vuotta", eversti Simmons tuhahtaa nyt. "Eivätköhän kurakilaiset ole jo oppineet yhtä jos toistakin kirotulla maalla taistelemisesta - ainakin välttämään sitä jos ei muuta."
+Toisen rannikkorykmentin komentaja, eversti Joanna Simmons, tunnetaan tiukkana mutta reiluna komentajana. Saatatte muistaa hänet hänen Nemouthin taistelun sankarina, kuuluisan mustan komppanian "naispaholaisena", joka pidätteli joukkojensa kanssa kokonaista kahta rykmenttia Kurakilaisia Nemouthin tiellä turvaten muun rykmentin Tetrinh-joen ylityksen. "Siitä nyt jo kymmenen vuotta", eversti Simmons tuhahtaa nyt. "Eivätköhän kurakilaiset ole jo oppineet yhtä jos toistakin kirotulla maalla taistelemisesta - ainakin välttämään sitä jos ei muuta."
 
-Kaikella on toki hintansa; kurakilaisten lisäksi kirottua maata välttelee kauppaliikenne, joka on talven aikana liikkunut rannikolta ja rannikolle vain Arudadhin kautta kulkevan kakkostien kautta. "Eivät kurakilaiset siitä pidä, mutta ei heilläkään ole valtaa pysäyttää kauppaa kokonaan, vaikka kuulemma Iggaziin on syntynyt kokonaisia varikkoalueita jolle kurakilaiset virkamiehet käskyttävät kuljettamaan viikottaiin muuttuviin pykäliin vedoten 'laittoman' kauppatavaran kuljettamaan."
+Kaikella on toki hintansa; kurakilaisten lisäksi kirottua maata välttelee kauppaliikenne, joka on talven aikana liikkunut rannikolta ja rannikolle vain Arudadhin kautta kulkevan kakkostien kautta. "Eivät kurakilaiset siitä pidä, mutta ei heilläkään ole valtaa pysäyttää kauppaa kokonaan, vaikka kuulemma Gloomberdeen on syntynyt kokonaisia varikkoalueita jolle kurakilaiset virkamiehet käskyttävät kuljettamaan viikottaiin muuttuviin pykäliin vedoten 'laittoman' kauppatavaran kuljettamaan."
 
 ### Mahdollinen malmiesiintymä 
 
