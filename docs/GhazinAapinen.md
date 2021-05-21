@@ -80,6 +80,12 @@ _Teknomaagit_ ovat vanhan maailman tietäjiä, koneenkäyttäjiä ja muinaisen t
 
 ## V
 
+# Kartat
 
+<img src="/img/armonese.png" alt="Armonese" title="Armonese" />
 
-<img src="/img/Rhojamar.png" alt="Armonese" title="Armonese" />
+<img src="/img/armonese_west.png" alt="Armonese" title="Armonese" />
+
+<img src="/img/armonese_east.png" alt="Armonese" title="Armonese" />
+
+<img src="/img/rhojamar_large.png" alt="Rhojamar" title="Rhojamar" />
