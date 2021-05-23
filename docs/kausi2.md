@@ -129,3 +129,17 @@ Keskikokoinen maatila Barinin lähistöllä.
 **Boramin miehiä**
 
 <img src="/img/boramband.jpg" alt="Boramin miehet" title="Boramin miehet" width="400" height="400" />
+
+# Teknomaagit
+
+**M19 Iskuvasara**
+
+<img src="/img/airship.jpg" alt="Iskuvasara" title="Iskuvasara" width="400" height="400" />
+
+**Kapteeni Juliet Hamms**
+
+<img src="/img/juliet.jpg" alt="Juliet" title="Juliet" width="400" height="400" />
+
+**Kersantti Agnus Muckman**
+
+<img src="/img/agnus.jpg" alt="Agnus" title="Agnus" width="400" height="400" />
