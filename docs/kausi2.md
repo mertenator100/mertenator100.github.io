@@ -126,6 +126,10 @@ Keskikokoinen maatila Barinin lähistöllä.
 
 <img src="/img/micke.jpg" alt="Micke" title="Micke" width="200" height="200" />
 
+**Patel, Boramin luutnantti**
+
+<img src="/img/patel.jpg" alt="Patel" title="Patel" width="200" height="200" />
+
 **Boramin miehiä**
 
 <img src="/img/boramband.jpg" alt="Boramin miehet" title="Boramin miehet" width="400" height="400" />
