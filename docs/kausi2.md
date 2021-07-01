@@ -128,7 +128,7 @@ Keskikokoinen maatila Barinin lähistöllä.
 
 **Patel, Boramin luutnantti**
 
-<img src="/img/patel.jpg" alt="Patel" title="Patel" width="200" height="200" />
+<img src="/img/patel.jpeg" alt="Patel" title="Patel" width="200" height="200" />
 
 **Boramin miehiä**
 
