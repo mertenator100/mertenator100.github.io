@@ -15,5 +15,5 @@ nav:
     - 'Kaudet':
         - 'Ensimmäinen kausi: ryöstö': 'kausi1.md'
         - 'Toinen kausi: vieraita avaruudesta': 'kausi2.md'
-        - 'Kolmas kausi: paikallispolitiikkaa': 'kausi3.md'
+        - 'Kolmas kausi: kirottu maa': 'kausi3.md'
 theme: material
